@@ -1,0 +1,13 @@
+site_name: CivicActions Style Guide
+site_url: https://civicactions-style-guide.readthedocs.io/en/latest/
+
+repo_url: https://github.com/civicactions/style-guide/
+
+theme:
+    name: readthedocs
+
+extra_css:
+    - css/extra.css
+
+plugins:
+    - search
