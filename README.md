@@ -1,2 +1,2 @@
-# style-guide
-CivicActions Style Guide
+# CivicActions Style Guide
+
