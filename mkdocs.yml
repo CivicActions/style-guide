@@ -14,4 +14,4 @@ plugins:
 
 pages:
     - Welcome: README.md
-        - Logos: collateral/logos.md
+        - Logos: docs/collateral/logos.md
