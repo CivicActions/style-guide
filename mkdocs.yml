@@ -11,3 +11,7 @@ extra_css:
 
 plugins:
     - search
+
+pages:
+    - Welcome: README.md
+        - Logos: collateral/logos.md
