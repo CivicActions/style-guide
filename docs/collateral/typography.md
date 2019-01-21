@@ -1,5 +1,5 @@
-#Typography
+# Typography
 
-##Headlines
+## Headlines
 
-##Body
+## Body
