@@ -16,4 +16,8 @@ pages:
     - Welcome: README.md
     - Collateral:
         - Logos: collateral/logos.md
-        - Collateral: collateral/collateral.md
+        - Colors: collateral/colors.md
+        - Typography: collateral/typography.md
+        - Photography: collateral/photography.md
+        - Video: collateral/video.md
+        
