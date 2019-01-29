@@ -15,7 +15,7 @@ plugins:
 pages:
     - Style Guide:
         - Welcome: README.md
-        - Brand: 
+        - Brand: styleguide/brand/logo.md
             - Logo: styleguide/brand/logo.md
             - Colors: styleguide/brand/colors.md
             - Typography: collateral/typography.md
