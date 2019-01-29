@@ -13,11 +13,16 @@ plugins:
     - search
 
 pages:
-    - Welcome: README.md
-    - Collateral:
-        - Logos: collateral/logos.md
-        - Colors: collateral/colors.md
-        - Typography: collateral/typography.md
-        - Photography: collateral/photography.md
-        - Video: collateral/video.md
+    - Style Guide:
+        - Welcome: README.md
+        - Brand: 
+            - Logo: styleguide/brand/logo.md
+            - Colors: styleguide/brand/colors.md
+            - Typography: collateral/typography.md
+            - Photography: collateral/photography.md
+            - Video: collateral/video.md
+        - Design System: styleguide/designsystem/components.md
+        - Templates:
+            - Digital: styleguide/templates/digital.md
+            - Print: styleguide/templates/print.md
         
