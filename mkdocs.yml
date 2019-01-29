@@ -21,7 +21,8 @@ pages:
             - Typography: collateral/typography.md
             - Photography: collateral/photography.md
             - Video: collateral/video.md
-        - Design System: styleguide/designsystem/components.md
+        - Design System: 
+            - Components: styleguide/designsystem/components.md
         - Templates:
             - Digital: styleguide/templates/digital.md
             - Print: styleguide/templates/print.md
