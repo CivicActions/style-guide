@@ -97,4 +97,44 @@ These guidelines are here to help you apply our branding yourself, but if you ar
 
 ![alt text](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-full-CMYK_red.png "Logo Title Text 1")
 ## SVG
-## PANTONE
+
+[Download Primary - Red Logo](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.svg)
+
+
+
+[Download Primary - White Logo](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.svg)
+
+
+
+[Download Primary - Black Logo](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.svg)
+
+[Download Truncated - Red Logo](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.svg)
+
+
+
+[Download Truncated - White Logo](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.svg)
+
+
+
+[Download Truncated - Black Logo](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.svg)
+## EPS
+
+[Download Primary - Red Logo - EPS](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/civicactions-logo-red.eps)
+
+
+
+[Download Primary - White Logo - EPS](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/civicactions-logo-white.eps)
+
+
+
+[Download Primary - Black Logo - EPS](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/civicactions-logo-black.eps)
+
+[Download Truncated - Red Logo - EPS](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated_original.eps)
+
+
+
+[Download Truncated - White Logo - EPS](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated_white.eps)
+
+
+
+[Download Truncated - Black Logo - EPS](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated_black.eps)
