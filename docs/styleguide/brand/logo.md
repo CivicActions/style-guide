@@ -128,7 +128,7 @@ EPS graphics are vector-based files used in design software like Adobe Illustrat
 
 
 
-[Download teh full logo in white - EPS](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/civicactions-logo-white.eps)
+[Download the full logo in white - EPS](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/civicactions-logo-white.eps)
 
 
 
