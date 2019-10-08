@@ -73,27 +73,27 @@ RGB files are used for digital/ web settings. If you need this logo for somethin
 
 ![alt text](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-full-RGB_original.png "Logo Title Text 1")
 
-[Download the full logo in red - PNG](https://drive.google.com/open?id=1pvgK2Wd8ys-nSm7Azm9y3mYkPj0GJGzn)
+[Download the full logo in red - RGB (PNG)](https://drive.google.com/open?id=1pvgK2Wd8ys-nSm7Azm9y3mYkPj0GJGzn)
 
 ![alt text](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-full-RGB_white.png "Logo Title Text 1")
 
-[Download the full logo in white - PNG](https://drive.google.com/open?id=1TQx2CK38KFIcyNPHDFv06ipat6TUrpkL)
+[Download the full logo in white - RGB (PNG)](https://drive.google.com/open?id=1TQx2CK38KFIcyNPHDFv06ipat6TUrpkL)
 
 ![alt text](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-full-RGB_black.png "Logo Title Text 1")
 
-[Download the full logo in black - PNG](https://drive.google.com/open?id=1eB41j9B1wu-iu-6KYBH2_EE7L7fpsWcw)
+[Download the full logo in black - RGB (PNG)](https://drive.google.com/open?id=1eB41j9B1wu-iu-6KYBH2_EE7L7fpsWcw)
+
+![alt text](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.png "Logo Title Text 1")
+
+[Download the shortened logo in red - RGB (PNG)](https://drive.google.com/open?id=1WSLHe6wfM3D9HMT2GYeX51Lvv0c0nPGm)
 
 
 
-[Download the shortened logo in red - PNG](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.png)
+[Download the shortened logo in white - RGB (PNG)](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.png)
 
 
 
-[Download the shortened logo in white - PNG](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.png)
-
-
-
-[Download the shortened logo in black - PNG](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.png)
+[Download the shortened logo in black - RGB (PNG)](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.png)
 ## CMYK
 CMYK files are used for print applications. If you plan to have your material printed, use a CMYK file.
 
