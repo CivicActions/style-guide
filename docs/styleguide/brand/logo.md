@@ -26,7 +26,7 @@ Additionally, do not modify either logo in a way that confuses CivicActions with
 Placing the truncated logo (CA) in a context where it would be confused with the state of California.
 
 ### Approved versions of the CivicActions logo
-Whenever possible, default to using our primary logo: a red CivicActions logotype on white background. There are many instances where the primary logo may not be the best representation of the brand, such as when applying the logo to a red background. In these cases, there are a handful of approved variations available.
+Whenever possible, default to using our primary logo: a red CivicActions logotype that spells out the full name 'CivicActions' on a white background. There are many instances where the primary logo may not be the best representation of the brand, such as when applying the logo to a red background. In these cases, there are a handful of approved variations available.
 
 ![alt text](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-full-RGB_original.png "Logo Title Text 1")
 
@@ -69,34 +69,37 @@ These guidelines are here to help you apply our branding yourself, but if you ar
 
 # Assets 
 ## RGB
+RGB files are used for digital/ web settings. If you need this logo for something that will be shown on a screen, use a RGB file.
 
 ![alt text](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-full-RGB_original.png "Logo Title Text 1")
 
-[Download Primary - Red Logo](https://drive.google.com/open?id=1pvgK2Wd8ys-nSm7Azm9y3mYkPj0GJGzn)
+[Download the full logo in red](https://drive.google.com/open?id=1pvgK2Wd8ys-nSm7Azm9y3mYkPj0GJGzn)
 
 ![alt text](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-full-RGB_white.png "Logo Title Text 1")
 
-[Download Primary - White Logo](https://drive.google.com/open?id=1TQx2CK38KFIcyNPHDFv06ipat6TUrpkL)
+[Download the full logo in white](https://drive.google.com/open?id=1TQx2CK38KFIcyNPHDFv06ipat6TUrpkL)
 
 ![alt text](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-full-RGB_black.png "Logo Title Text 1")
 
-[Download Primary - Black Logo](https://drive.google.com/open?id=1eB41j9B1wu-iu-6KYBH2_EE7L7fpsWcw)
+[Download the full logo in black](https://drive.google.com/open?id=1eB41j9B1wu-iu-6KYBH2_EE7L7fpsWcw)
 
 
 
-[Download Truncated - Red Logo](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.png)
+[Download the shortened logo in red](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.png)
 
 
 
-[Download Truncated - White Logo](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.png)
+[Download the shortened logo in white](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.png)
 
 
 
-[Download Truncated - Black Logo](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.png)
+[Download the shortened logo in black](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.png)
 ## CMYK
+CMYK files are used for print applications. If you plan to have your material printed, use a CMYK file.
 
 ![alt text](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-full-CMYK_red.png "Logo Title Text 1")
 ## SVG
+SVG files are used when displaying vector graphics on web pages. 
 
 [Download Primary - Red Logo](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.svg)
 
@@ -119,22 +122,24 @@ These guidelines are here to help you apply our branding yourself, but if you ar
 [Download Truncated - Black Logo](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.svg)
 ## EPS
 
-[Download Primary - Red Logo - EPS](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/civicactions-logo-red.eps)
+EPS graphics are vector-based files used in design software like Adobe Illustrator. 
+
+[Download the full logo in red - EPS](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/civicactions-logo-red.eps)
 
 
 
-[Download Primary - White Logo - EPS](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/civicactions-logo-white.eps)
+[Download teh full logo in white - EPS](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/civicactions-logo-white.eps)
 
 
 
-[Download Primary - Black Logo - EPS](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/civicactions-logo-black.eps)
+[Download the full logo in black - EPS](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/civicactions-logo-black.eps)
 
-[Download Truncated - Red Logo - EPS](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated_original.eps)
-
-
-
-[Download Truncated - White Logo - EPS](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated_white.eps)
+[Download the shortened logo in red - EPS](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated_original.eps)
 
 
 
-[Download Truncated - Black Logo - EPS](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated_black.eps)
+[Download the shortened logo in white - EPS](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated_white.eps)
+
+
+
+[Download the shortened logo in black - EPS](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated_black.eps)
