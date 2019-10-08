@@ -73,27 +73,27 @@ RGB files are used for digital/ web settings. If you need this logo for somethin
 
 ![alt text](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-full-RGB_original.png "Logo Title Text 1")
 
-[Download the full logo in red](https://drive.google.com/open?id=1pvgK2Wd8ys-nSm7Azm9y3mYkPj0GJGzn)
+[Download the full logo in red - PNG](https://drive.google.com/open?id=1pvgK2Wd8ys-nSm7Azm9y3mYkPj0GJGzn)
 
 ![alt text](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-full-RGB_white.png "Logo Title Text 1")
 
-[Download the full logo in white](https://drive.google.com/open?id=1TQx2CK38KFIcyNPHDFv06ipat6TUrpkL)
+[Download the full logo in white - PNG](https://drive.google.com/open?id=1TQx2CK38KFIcyNPHDFv06ipat6TUrpkL)
 
 ![alt text](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-full-RGB_black.png "Logo Title Text 1")
 
-[Download the full logo in black](https://drive.google.com/open?id=1eB41j9B1wu-iu-6KYBH2_EE7L7fpsWcw)
+[Download the full logo in black - PNG](https://drive.google.com/open?id=1eB41j9B1wu-iu-6KYBH2_EE7L7fpsWcw)
 
 
 
-[Download the shortened logo in red](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.png)
+[Download the shortened logo in red - PNG](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.png)
 
 
 
-[Download the shortened logo in white](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.png)
+[Download the shortened logo in white - PNG](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.png)
 
 
 
-[Download the shortened logo in black](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.png)
+[Download the shortened logo in black - PNG](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.png)
 ## CMYK
 CMYK files are used for print applications. If you plan to have your material printed, use a CMYK file.
 
@@ -101,25 +101,25 @@ CMYK files are used for print applications. If you plan to have your material pr
 ## SVG
 SVG files are used when displaying vector graphics on web pages. 
 
-[Download Primary - Red Logo](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.svg)
+[Download the full logo in red - SVG](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.svg)
 
 
 
-[Download Primary - White Logo](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.svg)
+[Download the full logo in white - SVG](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.svg)
 
 
 
-[Download Primary - Black Logo](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.svg)
+[Download the full logo in black - SVG](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.svg)
 
-[Download Truncated - Red Logo](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.svg)
-
-
-
-[Download Truncated - White Logo](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.svg)
+[Download the shortened logo in red - SVG](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.svg)
 
 
 
-[Download Truncated - Black Logo](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.svg)
+[Download the shortened logo in white - SVG](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.svg)
+
+
+
+[Download the shortened logo in black - SVG](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.svg)
 ## EPS
 
 EPS graphics are vector-based files used in design software like Adobe Illustrator. 
