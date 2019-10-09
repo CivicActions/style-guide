@@ -1,6 +1,7 @@
 
-[create an anchor](#proper-use-guidance)
-[create an anchor](#logo-assets)
+# On this page
+[Proper use guidance](#proper-use-guidance)
+[Original full sized logo files](#original-full-sized-logo-files)
 
 # Proper use guidance
 ### Why logo usage matters 
