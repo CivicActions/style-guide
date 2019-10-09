@@ -85,8 +85,12 @@ RGB files are used for digital/ web settings. If you need this logo for somethin
 
 ![alt text](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.png "Logo Title Text 1")
 
-[Download the shortened logo in red - RGB (PNG)](https://drive.google.com/open?id=1WSLHe6wfM3D9HMT2GYeX51Lvv0c0nPGm)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.png" width="350" title="Shortened red logo">
+  <img src="https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.png" width="350" alt="Shortened red logo">
+</p>
 
+[Download the shortened logo in red - RGB (PNG)](https://drive.google.com/open?id=1WSLHe6wfM3D9HMT2GYeX51Lvv0c0nPGm)
 
 
 [Download the shortened logo in white - RGB (PNG)](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.png)
