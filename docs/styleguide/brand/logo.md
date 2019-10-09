@@ -30,6 +30,8 @@ Whenever possible, default to using our primary logo: a red CivicActions logotyp
 
 ![alt text](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-full-RGB_original.png "Logo Title Text 1")
 
+*Default to using the above logo, and use variations when necessary.*
+
 ## Sizing
 
 ## Padding
@@ -108,27 +110,12 @@ CMYK files are used for print applications. If you plan to have your material pr
 ## SVG logo files for web design
 SVG files are used when displaying vector graphics on web pages. 
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.svg" width="150" title="Full red logo SVG">
-</p>
-
 Download the full logo in red - SVG](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.svg)
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.svg" width="150" title="Full white logo SVG">
-</p>
 
 [Download the full logo in white - SVG](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.svg)
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.svg" width="150" title="Full black logo SVG">
-</p>
 
 [Download the full logo in black - SVG](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.svg)
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.svg" width="150" title="Shortened red logo SVG">
-</p>
 
 [Download the shortened logo in red - SVG](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.svg)
 
