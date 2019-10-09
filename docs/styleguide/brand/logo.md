@@ -1,7 +1,10 @@
 
 # On this page
 [Proper use guidance](#proper-use-guidance)
+
 [Original full sized logo files](#original-full-sized-logo-files)
+
+[Logo files sized for social media avatars](logo-files-sized-for-social-media-avatars)
 
 # Proper use guidance
 ### Why logo usage matters 
