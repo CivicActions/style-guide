@@ -1,5 +1,6 @@
 
-[create an anchor](#anchors-in-markdown)
+[create an anchor](#proper-use-guidance)
+[create an anchor](#logo-assets)
 
 # Proper use guidance
 ### Why logo usage matters 
