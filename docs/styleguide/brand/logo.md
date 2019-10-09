@@ -1,4 +1,6 @@
 
+[create an anchor](#anchors-in-markdown)
+
 # Proper use guidance
 ### Why logo usage matters 
 The CivicActions logo is a key part of our brand. Our logo helps others recognize CivicActions presence in our work, partnerships, and relationships in the community. To state the obvious, the logo represents CivicActions, so it’s important to use it with intention and care. 
