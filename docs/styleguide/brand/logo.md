@@ -67,8 +67,8 @@ The spacing around the CivicActions logos should be dictated based on the height
 
 These guidelines are here to help you apply our branding yourself, but if you aren’t sure about something, just ask. Anyone in #brand would be happy to answer questions.
 
-# Assets 
-## RGB
+# Logo Assets 
+## RGB logo files for the web
 RGB files are used for digital/ web settings. If you need this logo for something that will be shown on a screen, use a RGB file.
 
 ![alt text](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-full-RGB_original.png "Logo Title Text 1")
@@ -96,16 +96,16 @@ RGB files are used for digital/ web settings. If you need this logo for somethin
 [Download the shortened logo in white - RGB (PNG)](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.png)
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_white.png" width="300" title="Shortened black RGB logo">
+  <img src="https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_black.png" width="300" title="Shortened black RGB logo">
 </p>
 
 [Download the shortened logo in black - RGB (PNG)](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.png)
 
-## CMYK
+## CMYK logo files for print
 CMYK files are used for print applications. If you plan to have your material printed, use a CMYK file.
 
 ![alt text](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-full-CMYK_red.png "Logo Title Text 1")
-## SVG
+## SVG logo files for web design
 SVG files are used when displaying vector graphics on web pages. 
 
 [Download the full logo in red - SVG](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.svg)
@@ -127,7 +127,7 @@ SVG files are used when displaying vector graphics on web pages.
 
 
 [Download the shortened logo in black - SVG](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.svg)
-## EPS
+## EPS logo files for design
 
 EPS graphics are vector-based files used in design software like Adobe Illustrator. 
 
