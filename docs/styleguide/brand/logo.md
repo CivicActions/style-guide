@@ -40,7 +40,7 @@ Additionally, do not modify either logo in a way that confuses CivicActions with
 
 Placing the truncated logo (CA) in a context where it would be confused with the state of California.
 
-### Approved versions of the CivicActions logo
+### Approved versions
 Whenever possible, default to using our primary logo: a red CivicActions logotype that spells out the full name 'CivicActions' on a white background. There are many instances where the primary logo may not be the best representation of the brand, such as when applying the logo to a red background. In these cases, there are a handful of approved variations available.
 
 ![alt text](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-full-RGB_original.png "Logo Title Text 1")
