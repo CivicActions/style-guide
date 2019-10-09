@@ -168,7 +168,8 @@ EPS graphics are vector-based files used in design software like Adobe Illustrat
 
 [Download the shortened logo in black - EPS](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated_black.eps)
 
-## Logo files sized for social media avatars
+## Social media avatars
 
-[Google drive: Social media avatar files](https://drive.google.com/open?id=1ueoLjUGQY9IC8cgk2xVG0x4S6xlgLyFZ)
+**[Google drive: Social media avatar files](https://drive.google.com/open?id=1ueoLjUGQY9IC8cgk2xVG0x4S6xlgLyFZ)**
+
 Find a range of sizes and logo variations in a 1:1 square ratio, optimized for social media avatars.
