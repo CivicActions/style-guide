@@ -1,14 +1,15 @@
+# Logo
 
-# On this page
+## On this page
 [How to use the CivicActions logo](#how-to-use-the-civicactions-logo)
 
-[Do's and Don'ts](##Do's-and-Don'ts)
+[Do's and Don'ts](#Do's-and-Don'ts)
 
 [Download original full-sized logo files](#original-full-sized-logo-files)
 
-[Download logo files sized for social media avatars](logo-files-sized-for-social-media-avatars)
+[Download logo files sized for social media avatars](#logo-files-sized-for-social-media-avatars)
 
-# How to use the CivicActions logo
+## How to use the CivicActions logo
 ### Where and when should I use the CivicActions logo?
 +   On slide decks of presentations you give on behalf of the company
 +   On materials/ deliverables you plan to present/give to a client
