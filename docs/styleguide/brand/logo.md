@@ -1,12 +1,12 @@
 
 # On this page
-[Proper use guidance](#proper-use-guidance)
+[How to use the CivicActions logo](#how-to-use-the-civicactions-logo)
 
-[Original full sized logo files](#original-full-sized-logo-files)
+[Download original full-sized logo files](#original-full-sized-logo-files)
 
-[Logo files sized for social media avatars](logo-files-sized-for-social-media-avatars)
+[Download logo files sized for social media avatars](logo-files-sized-for-social-media-avatars)
 
-# Proper use guidance
+# How to use the CivicActions logo
 ### Why logo usage matters 
 The CivicActions logo is a key part of our brand. Our logo helps others recognize CivicActions presence in our work, partnerships, and relationships in the community. To state the obvious, the logo represents CivicActions, so it’s important to use it with intention and care. 
 
