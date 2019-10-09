@@ -7,7 +7,13 @@
 [Download logo files sized for social media avatars](logo-files-sized-for-social-media-avatars)
 
 # How to use the CivicActions logo
-### Why logo usage matters 
+### Where and when should I use the CivicActions logo?
++   On slide decks of presentations you give on behalf of the company
++   On materials/ deliverables you plan to present/give to a client
++   On official documents like contracts 
++   On business cards, email signatures, or other places that designate you as a representative of the company
+
+### Why proper logo usage matters 
 The CivicActions logo is a key part of our brand. Our logo helps others recognize CivicActions presence in our work, partnerships, and relationships in the community. To state the obvious, the logo represents CivicActions, so it’s important to use it with intention and care. 
 
 These guidelines will help you use the CivicActions logo in a way that’s consistent with our visual brand. Whether you’re using it for a critical presentation with a client, or more casual internal purposes, our visual presence matters, so please be mindful of how you represent CivicActions.
@@ -20,7 +26,7 @@ Where our logo appears is just as important as how it appears. Avoid using the l
 
 **Yes**
 
-Putting CivicActions logo on the Code for America Summit site to indicate sponsorship..
+Putting CivicActions logo on the Code for America Summit site to indicate sponsorship.
 
 **No**
 
