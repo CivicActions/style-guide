@@ -125,7 +125,7 @@ These guidelines are here to help you apply our branding yourself, but if you ar
 [Download the shortened logo in black - RGB (PNG)](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.png)
 
 
-#### Vector files (SVG)
+#### Vector files for the web (SVG)
 *Use SVG files for places where the size of the image will change. SVG files are vector-based and intended for web applications.* 
 
 **RED**
@@ -155,14 +155,22 @@ These guidelines are here to help you apply our branding yourself, but if you ar
 
 [Download the full logo in red - CMYK (PNG)](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-full-CMYK_red.png)
 
-![alt text](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-full-CMYK_red.png "Full-logo-black-CMYK-PNG")
+![alt text](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-full-CMYK_black.png "Full-logo-black-CMYK-PNG")
 
 [Download the full logo in black - CMYK (PNG)](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-full-CMYK_black.png)
+
+![alt text](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-full-CMYK_white.png "Full-logo-white-CMYK-PNG")
+
+[Download the full logo in white - CMYK (PNG)](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-full-CMYK_white.png)
+
+![alt text](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-full-CMYK_white.png "Full-logo-white-CMYK-PNG")
+
+[Download the full logo in white - CMYK (PNG)](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-full-CMYK_white.png)
 
 
 ### Vector files for design (EPS)
 
-EPS graphics are vector-based files used in design software like Adobe Illustrator. 
+*EPS graphics are vector-based files used in design software like Adobe Illustrator.* 
 
 **RED**
 
