@@ -91,7 +91,7 @@ These guidelines are here to help you apply our branding yourself, but if you ar
 ### For the web (RGB)
 RGB files are used for digital/ web settings. If you need this logo for something that will be shown on a screen, use a RGB file.
 
-#### PNG versions
+**PNG versions**
 *Use .png files when the size of the image will stay static.*
 
 ![alt text](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-full-RGB_original.png "Logo Title Text 1")
@@ -107,19 +107,19 @@ RGB files are used for digital/ web settings. If you need this logo for somethin
 [Download the full logo in black - RGB (PNG)](https://drive.google.com/open?id=1eB41j9B1wu-iu-6KYBH2_EE7L7fpsWcw)
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.png" width="150" title="Shortened red RGB logo">
+  <img src="https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.png" width="50" title="Shortened red RGB logo">
 </p>
 
 [Download the shortened logo in red - RGB (PNG)](https://drive.google.com/open?id=1WSLHe6wfM3D9HMT2GYeX51Lvv0c0nPGm)
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_white.png" width="150" title="Shortened white RGB logo">
+  <img src="https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_white.png" width="50" title="Shortened white RGB logo">
 </p>
 
 [Download the shortened logo in white - RGB (PNG)](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.png)
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_black.png" width="150" title="Shortened black RGB logo">
+  <img src="https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_black.png" width="50" title="Shortened black RGB logo">
 </p>
 
 [Download the shortened logo in black - RGB (PNG)](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.png)
@@ -127,6 +127,8 @@ RGB files are used for digital/ web settings. If you need this logo for somethin
 
 #### SVG files
 *Use SVG files for places where the size of the image will change. SVG files are vector-based and intended for web applications. 
+
+![alt text](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.svg "Full-logo-red-RGB-SVG")
 
 [Download the full RGB logo in red - SVG](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.svg)
 
@@ -145,11 +147,11 @@ RGB files are used for digital/ web settings. If you need this logo for somethin
 
 ![alt text](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-full-CMYK_red.png "Full-logo-red-CMYK-PNG")
 
-[Download the full logo in red - CMYK (PNG)](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-full-CMYK_red.png "Full-logo-red-CMYK-PNG)
+[Download the full logo in red - CMYK (PNG)](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-full-CMYK_red.png)
 
-![alt text](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-full-CMYK_red.png "Full-logo-red-CMYK-PNG")
+![alt text](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-full-CMYK_red.png "Full-logo-black-CMYK-PNG")
 
-[Download the full logo in black - CMYK (PNG)](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-full-CMYK_black.png "Full-logo-black-CMYK-PNG)
+[Download the full logo in black - CMYK (PNG)](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-full-CMYK_black.png)
 
 
 ### Vector files for design (EPS)
