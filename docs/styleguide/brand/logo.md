@@ -126,21 +126,25 @@ RGB files are used for digital/ web settings. If you need this logo for somethin
 
 
 #### SVG files
-*Use SVG files for places where the size of the image will change. SVG files are vector-based and intended for web applications. 
+*Use SVG files for places where the size of the image will change. SVG files are vector-based and intended for web applications.* 
 
-![alt text](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.svg "Full-logo-red-RGB-SVG")
-
+**RED**
 [Download the full RGB logo in red - SVG](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.svg)
-
-[Download the full RGB logo in white - SVG](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.svg)
-
-[Download the full RGB logo in black - SVG](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.svg)
 
 [Download the shortened RGB logo in red - SVG](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.svg)
 
-[Download the shortened RGB logo in white - SVG](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.svg)
+**BLACK**
+[Download the full RGB logo in black - SVG](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.svg)
 
 [Download the shortened RGB logo in black - SVG](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.svg)
+
+**WHITE**
+
+[Download the full RGB logo in white - SVG](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.svg)
+
+[Download the shortened RGB logo in white - SVG](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.svg)
+
+
 
 ### For print (CMYK)
 *CMYK files are used for print applications. If you plan to have your material printed, use a CMYK file.*
@@ -158,25 +162,21 @@ RGB files are used for digital/ web settings. If you need this logo for somethin
 
 EPS graphics are vector-based files used in design software like Adobe Illustrator. 
 
+**RED**
 [Download the full logo in red - EPS](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/civicactions-logo-red.eps)
-
-
-
-[Download the full logo in white - EPS](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/civicactions-logo-white.eps)
-
-
-
-[Download the full logo in black - EPS](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/civicactions-logo-black.eps)
 
 [Download the shortened logo in red - EPS](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated_original.eps)
 
+**BLACK**
+[Download the full logo in black - EPS](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/civicactions-logo-black.eps)
 
+[Download the shortened logo in black - EPS](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated_black.eps)
+
+**WHITE**
+[Download the full logo in white - EPS](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/civicactions-logo-white.eps)
 
 [Download the shortened logo in white - EPS](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated_white.eps)
 
-
-
-[Download the shortened logo in black - EPS](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated_black.eps)
 
 ## Social media avatars
 
