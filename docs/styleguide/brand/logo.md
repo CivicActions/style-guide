@@ -88,8 +88,8 @@ These guidelines are here to help you apply our branding yourself, but if you ar
 
 ## Original full sized logo files
 
-### For the web (RGB)
-RGB files are used for digital/ web settings. If you need this logo for something that will be shown on a screen, use a RGB file.
+### For the web (RGB color)
+*Use RGB files for anything that will be displayed on a screen.*
 
 **PNG versions**
 *Use .png files when the size of the image will stay static.*
@@ -125,15 +125,17 @@ RGB files are used for digital/ web settings. If you need this logo for somethin
 [Download the shortened logo in black - RGB (PNG)](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.png)
 
 
-#### SVG files
+#### Vector files (SVG)
 *Use SVG files for places where the size of the image will change. SVG files are vector-based and intended for web applications.* 
 
 **RED**
+
 [Download the full RGB logo in red - SVG](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.svg)
 
 [Download the shortened RGB logo in red - SVG](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.svg)
 
 **BLACK**
+
 [Download the full RGB logo in black - SVG](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.svg)
 
 [Download the shortened RGB logo in black - SVG](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated-RGB_original.svg)
@@ -146,7 +148,7 @@ RGB files are used for digital/ web settings. If you need this logo for somethin
 
 
 
-### For print (CMYK)
+### For print (CMYK color)
 *CMYK files are used for print applications. If you plan to have your material printed, use a CMYK file.*
 
 ![alt text](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-full-CMYK_red.png "Full-logo-red-CMYK-PNG")
@@ -163,16 +165,19 @@ RGB files are used for digital/ web settings. If you need this logo for somethin
 EPS graphics are vector-based files used in design software like Adobe Illustrator. 
 
 **RED**
+
 [Download the full logo in red - EPS](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/civicactions-logo-red.eps)
 
 [Download the shortened logo in red - EPS](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated_original.eps)
 
 **BLACK**
+
 [Download the full logo in black - EPS](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/civicactions-logo-black.eps)
 
 [Download the shortened logo in black - EPS](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated_black.eps)
 
 **WHITE**
+
 [Download the full logo in white - EPS](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/civicactions-logo-white.eps)
 
 [Download the shortened logo in white - EPS](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-truncated_white.eps)
