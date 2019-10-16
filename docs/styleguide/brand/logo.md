@@ -163,10 +163,6 @@ These guidelines are here to help you apply our branding yourself, but if you ar
 
 [Download the full logo in white - CMYK (PNG)](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-full-CMYK_white.png)
 
-![alt text](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-full-CMYK_white.png "Full-logo-white-CMYK-PNG")
-
-[Download the full logo in white - CMYK (PNG)](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-full-CMYK_white.png)
-
 
 ### Vector files for design (EPS)
 
