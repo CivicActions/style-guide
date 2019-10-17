@@ -107,12 +107,13 @@ These guidelines are here to help you apply our branding yourself, but if you ar
 **[Full-sized "CivicActions" logos - CMYK (PNG)](https://drive.google.com/open?id=14OOIeJJ2cA1oySVFznEuReeWsN8no05z)**
 *Use .png files when the size of the image will stay static.*
 
-**[Shortened "CA" logos - CMYK (PNG)](https://drive.google.com/open?id=1aG4atk0EUH8ucHkrb5iZg-AcX0IcdNpT)
+**[Shortened "CA" logos - CMYK (PNG)](https://drive.google.com/open?id=1aG4atk0EUH8ucHkrb5iZg-AcX0IcdNpT)**
+*Use .png files when the size of the image will stay static.*
 
 **[Vector logos - CMYK (EPS)](https://drive.google.com/open?id=1YiUousYdD0BSpKP0uvnUacX57p4NOATb)**
 *EPS graphics are vector-based files used in design software like Adobe Illustrator.* 
 
-**[Vector logos - CMYK (SVG)(https://drive.google.com/open?id=1F1YvW1rUtGiUZPHOjryUyjAXZOhBCUBa)**
+**[Vector logos - CMYK (SVG)](https://drive.google.com/open?id=1F1YvW1rUtGiUZPHOjryUyjAXZOhBCUBa)**
 *SVG files are vector-based and intended for web applications.* 
 
 ## Social media avatars
