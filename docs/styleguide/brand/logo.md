@@ -9,12 +9,13 @@
 
 ## How to use the CivicActions logo
 
-### What counts as a CivicActions logo? 
-The CivicActions mark includes the CivicActions logotype (full name: “CivicActions”) as well as the shortened logo. 
+### What logo should I use? 
 
-![Full CivicActions logo](https://github.com/CivicActions/style-guide/blob/master/docs/img/CA-full-CMYK_red.png "CivicActions logo red")
+Whenever possible, default to using our primary logo: a red CivicActions logotype that spells out the full name 'CivicActions' on a white background. There are many instances where the primary logo may not be the best representation of the brand, such as when applying the logo to a red background. In these cases, there are a handful of approved variations available. (See the [download section of this page](#social-media-avatars) for available files.)
 
-*Full sized logo*
+![Primary CivicActions logo](https://github.com/CivicActions/style-guide/blob/master/docs/img/CA-full-CMYK_red.png "CivicActions logo red")
+
+*Primary logo*
 
 <img src="https://github.com/CivicActions/style-guide/blob/master/docs/img/CA-truncated-RGB_original.png" alt="Shortened CA logo" width="150" height="150">
 
@@ -49,12 +50,6 @@ Additionally, do not modify either logo in a way that confuses CivicActions with
 
 Placing the truncated logo (CA) in a context where it would be confused with the state of California.
 
-### Approved versions
-Whenever possible, default to using our primary logo: a red CivicActions logotype that spells out the full name 'CivicActions' on a white background. There are many instances where the primary logo may not be the best representation of the brand, such as when applying the logo to a red background. In these cases, there are a handful of approved variations available.
-
-![alt text](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-full-RGB_original.png "Logo Title Text 1")
-
-*Default to using the above logo, and use variations when necessary.*
 
 ## Sizing
 
