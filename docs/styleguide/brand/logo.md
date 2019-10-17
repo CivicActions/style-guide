@@ -8,6 +8,18 @@
 [Download Social media avatars](#social-media-avatars)
 
 ## How to use the CivicActions logo
+
+### What counts as a CivicActions logo? 
+The CivicActions mark includes the CivicActions logotype (full name: “CivicActions”) as well as the shortened logo. 
+
+![Full CivicActions logo](https://github.com/CivicActions/style-guide/blob/master/docs/img/CA-full-CMYK_red.png "CivicActions logo red")
+
+*Full sized logo*
+
+<img src="https://github.com/CivicActions/style-guide/blob/master/docs/img/CA-truncated-RGB_original.png" alt="Shortened CA logo" width="150" height="150">
+
+*Shortened logo*
+
 ### Where and when should I use the CivicActions logo?
 +   On slide decks of presentations you give on behalf of the company
 +   On materials/ deliverables you plan to present/give to a client
@@ -18,9 +30,6 @@
 The CivicActions logo is a key part of our brand. Our logo helps others recognize CivicActions presence in our work, partnerships, and relationships in the community. To state the obvious, the logo represents CivicActions, so it’s important to use it with intention and care. 
 
 These guidelines will help you use the CivicActions logo in a way that’s consistent with our visual brand. Whether you’re using it for a critical presentation with a client, or more casual internal purposes, our visual presence matters, so please be mindful of how you represent CivicActions.
-
-### What counts as a CivicActions logo? 
-The CivicActions mark includes the CivicActions logotype (full name: “CivicActions”) as well as the truncated logo (abbreviated: “CA”). 
 
 
 ### Be mindful of context
