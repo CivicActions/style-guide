@@ -17,7 +17,7 @@ Whenever possible, default to using our primary logo: a red CivicActions logotyp
 
 *Primary logo*
 
-<img src="https://github.com/CivicActions/style-guide/blob/master/docs/img/CA-truncated-RGB_original.png" alt="Shortened CA logo" width="150" height="150">
+<img src="https://github.com/CivicActions/style-guide/blob/master/docs/img/CA-truncated-RGB_original.png" alt="Shortened CA logo" width="100" height="100">
 
 *Shortened logo*
 
