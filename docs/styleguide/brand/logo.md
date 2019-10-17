@@ -3,9 +3,9 @@
 ## On this page
 [How to use the CivicActions logo](#how-to-use-the-civicactions-logo)
 
-[Original full-sized logo](#original-full-sized-logo-files)
+[Download full-sized logo files](#original-full-sized-logo-files)
 
-[Social media avatars](#logo-files-sized-for-social-media-avatars)
+[Download Social media avatars](#social-media-avatars)
 
 ## How to use the CivicActions logo
 ### Where and when should I use the CivicActions logo?
@@ -118,6 +118,7 @@ These guidelines are here to help you apply our branding yourself, but if you ar
 
 ## Social media avatars
 
-**[Google drive: Social media avatar files](https://drive.google.com/open?id=1ueoLjUGQY9IC8cgk2xVG0x4S6xlgLyFZ)**
-
 Find a range of sizes and logo variations in a 1:1 square ratio, optimized for social media avatars.
+
+**[Social media avatar files](https://drive.google.com/open?id=1ueoLjUGQY9IC8cgk2xVG0x4S6xlgLyFZ)**
+
