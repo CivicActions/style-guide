@@ -15,11 +15,11 @@ Whenever possible, default to using our primary logo: a red CivicActions logotyp
 
 ![Primary CivicActions logo](https://github.com/CivicActions/style-guide/blob/master/docs/img/CA-full-CMYK_red.png "CivicActions logo red")
 
-*Primary logo*
+*Primary full logo*
 
 <img src="https://github.com/CivicActions/style-guide/blob/master/docs/img/CA-truncated-RGB_original.png" alt="Shortened CA logo" width="100" height="100">
 
-*Shortened logo*
+*Primary shortened logo*
 
 ### Where and when should I use the CivicActions logo?
 +   On slide decks of presentations you give on behalf of the company
