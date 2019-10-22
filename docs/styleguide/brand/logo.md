@@ -3,8 +3,7 @@ The CivicActions logo is a key part of our brand. Our logo helps others recogniz
 
 ## On this page
 +   [How to use the CivicActions logo](#how-to-use-the-civicactions-logo)
-+   [Download full-sized logo files](#original-full-sized-logo-files)
-+   [Download Social media avatars](#social-media-avatars)
++   [Download logo files](#download-logo-assets)
 
 ## How to use the CivicActions logo
 
