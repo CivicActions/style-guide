@@ -80,7 +80,7 @@ These guidelines are here to help you apply our branding yourself, but if you ar
 # Download logo assets 
 
 ## For the web (RGB color)
-*Use RGB files for anything that will be displayed on a screen.*
+Use RGB files for anything that will be displayed on a screen.
 
 **[Full-sized "CivicActions" logos - RGB (PNG)](https://drive.google.com/open?id=10HV9eOSybMGscmEqF1q8KO57OPc41byB)**
 *Use .png files when the size of the image will stay static.*
@@ -93,7 +93,7 @@ These guidelines are here to help you apply our branding yourself, but if you ar
 
 
 ## For print (CMYK color)
-*CMYK files are used for print applications. If you plan to have your material printed, use a CMYK file.*
+CMYK files are used for print applications. If you plan to have your material printed, use a CMYK file.
 
 **[Full-sized "CivicActions" logos - CMYK (PNG)](https://drive.google.com/open?id=14OOIeJJ2cA1oySVFznEuReeWsN8no05z)**
 *Use .png files when the size of the image will stay static.*
