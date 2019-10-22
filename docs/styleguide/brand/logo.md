@@ -1,4 +1,7 @@
 # Logo
+The CivicActions logo is a key part of our brand. Our logo helps others recognize CivicActions presence in our work, partnerships, and relationships in the community. To state the obvious, the logo represents CivicActions, so it’s important to use it with intention and care. 
+
+Whether you’re using it for a critical presentation with a client, or more casual internal purposes, our visual presence matters. These guidelines will help you use the CivicActions logo in a way that’s consistent with our visual brand. 
 
 ## On this page
 +   [How to use the CivicActions logo](#how-to-use-the-civicactions-logo)
@@ -24,11 +27,6 @@ Whenever possible, default to using our primary logo: a red CivicActions logotyp
 +   On materials/ deliverables you plan to present/give to a client
 +   On official documents like contracts 
 +   On business cards, email signatures, or other places that designate you as a representative of the company
-
-### Why proper logo usage matters 
-The CivicActions logo is a key part of our brand. Our logo helps others recognize CivicActions presence in our work, partnerships, and relationships in the community. To state the obvious, the logo represents CivicActions, so it’s important to use it with intention and care. 
-
-These guidelines will help you use the CivicActions logo in a way that’s consistent with our visual brand. Whether you’re using it for a critical presentation with a client, or more casual internal purposes, our visual presence matters, so please be mindful of how you represent CivicActions.
 
 
 ### Be mindful of context
