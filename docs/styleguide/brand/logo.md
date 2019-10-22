@@ -1,7 +1,5 @@
 # Logo
-The CivicActions logo is a key part of our brand. Our logo helps others recognize CivicActions presence in our work, partnerships, and relationships in the community. To state the obvious, the logo represents CivicActions, so it’s important to use it with intention and care. 
-
-Whether you’re using it for a critical presentation with a client, or more casual internal purposes, our visual presence matters. These guidelines will help you use the CivicActions logo in a way that’s consistent with our visual brand. 
+The CivicActions logo is a key part of our brand. Our logo helps others recognize CivicActions presence in our work, partnerships, and relationships in the community. To state the obvious, the logo represents CivicActions, so it’s important to use it with intention and care. These guidelines will help you use the CivicActions logo in a way that’s consistent with our visual brand. 
 
 ## On this page
 +   [How to use the CivicActions logo](#how-to-use-the-civicactions-logo)
