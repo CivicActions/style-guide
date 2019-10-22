@@ -33,18 +33,11 @@ Whenever possible, default to using our primary logo: a red CivicActions logotyp
 Where our logo appears is just as important as how it appears. Avoid using the logo in ways that imply sponsorship or endorsement, unless that is the intent. 
 
 **Yes**
-
-Putting CivicActions logo on the Code for America Summit site to indicate sponsorship.
-
-**No**
-
-Including our logo on public documents that don’t represent our work. Placing our logo next to the logo of another company with whom we don’t have a partnership.
-
-Additionally, do not modify either logo in a way that confuses CivicActions with another brand or organization. 
++   Putting CivicActions logo on the Code for America Summit site to indicate sponsorship.
 
 **No**
-
-Placing the truncated logo (CA) in a context where it would be confused with the state of California.
++    Including our logo on public documents that don’t represent our work. Placing our logo next to the logo of another company with whom we don’t have a partnership.
++   Modifying either logo in a way that confuses CivicActions with another brand or organization. For example, placing the truncated logo (CA) in a context where it would be confused with the state of California.
 
 
 ## Sizing
