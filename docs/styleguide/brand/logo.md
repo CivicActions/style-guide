@@ -79,9 +79,7 @@ These guidelines are here to help you apply our branding yourself, but if you ar
 
 # Download logo assets 
 
-## Original full sized logo files
-
-### For the web (RGB color)
+## For the web (RGB color)
 *Use RGB files for anything that will be displayed on a screen.*
 
 **[Full-sized "CivicActions" logos - RGB (PNG)](https://drive.google.com/open?id=10HV9eOSybMGscmEqF1q8KO57OPc41byB)**
@@ -94,7 +92,7 @@ These guidelines are here to help you apply our branding yourself, but if you ar
 *SVG files are vector-based and intended for web applications.* 
 
 
-### For print (CMYK color)
+## For print (CMYK color)
 *CMYK files are used for print applications. If you plan to have your material printed, use a CMYK file.*
 
 **[Full-sized "CivicActions" logos - CMYK (PNG)](https://drive.google.com/open?id=14OOIeJJ2cA1oySVFznEuReeWsN8no05z)**
@@ -110,7 +108,6 @@ These guidelines are here to help you apply our branding yourself, but if you ar
 *SVG files are vector-based and intended for web applications.* 
 
 ## Social media avatars
-
 Find a range of sizes and logo variations in a 1:1 square ratio, optimized for social media avatars.
 
 **[Social media avatar files](https://drive.google.com/open?id=1ueoLjUGQY9IC8cgk2xVG0x4S6xlgLyFZ)**
