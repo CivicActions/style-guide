@@ -1,11 +1,52 @@
 # Logo
-The CivicActions logo is a key part of our brand. Our logo helps others recognize CivicActions presence in our work, partnerships, and relationships in the community. To state the obvious, the logo represents CivicActions, so it’s important to use it with intention and care. These guidelines will help you use the CivicActions logo in a way that’s consistent with our visual brand. 
+Find logo files to use in CivicActions branded materials, and learn best practices for using the logo.
 
 ## On this page
-+   [How to use the CivicActions logo](#how-to-use-the-civicactions-logo)
 +   [Download logo files](#download-logo-assets)
++   [How to use the CivicActions logo](#how-to-use-the-civicactions-logo)
+
+# Logo examples
+
+
+
+# Download logo assets 
+
+## For the web (RGB color)
+Use RGB files for anything that will be displayed on a screen.
+
+**[Full-sized "CivicActions" logos - RGB (PNG)](https://drive.google.com/open?id=10HV9eOSybMGscmEqF1q8KO57OPc41byB)**
+*Use .png files when the size of the image will stay static.*
+
+**[Shortened "CA" logos - RGB (PNG)](https://drive.google.com/open?id=1dHceK1FoU_-s4bGZzU4s_k8D_f1ydbjz)**
+*Use .png files when the size of the image will stay static.*
+
+**[Vector logos - RGB (SVG)](https://drive.google.com/open?id=196Jz6p7ZRTX-jOHdrwPzS9SVAk5mmSv-)**
+*SVG files are vector-based and intended for web applications.* 
+
+
+## For print (CMYK color)
+CMYK files are used for print applications. If you plan to have your material printed, use a CMYK file.
+
+**[Full-sized "CivicActions" logos - CMYK (PNG)](https://drive.google.com/open?id=14OOIeJJ2cA1oySVFznEuReeWsN8no05z)**
+*Use .png files when the size of the image will stay static.*
+
+**[Shortened "CA" logos - CMYK (PNG)](https://drive.google.com/open?id=1aG4atk0EUH8ucHkrb5iZg-AcX0IcdNpT)**
+*Use .png files when the size of the image will stay static.*
+
+**[Vector logos - CMYK (EPS)](https://drive.google.com/open?id=1YiUousYdD0BSpKP0uvnUacX57p4NOATb)**
+*EPS graphics are vector-based files used in design software like Adobe Illustrator.* 
+
+**[Vector logos - CMYK (SVG)](https://drive.google.com/open?id=1F1YvW1rUtGiUZPHOjryUyjAXZOhBCUBa)**
+*SVG files are vector-based and intended for web applications.* 
+
+## Social media avatars
+Find a range of sizes and logo variations in a 1:1 square ratio, optimized for social media avatars.
+
+**[Social media avatar files](https://drive.google.com/open?id=1ueoLjUGQY9IC8cgk2xVG0x4S6xlgLyFZ)**
+
 
 ## How to use the CivicActions logo
+The CivicActions logo is a key part of our brand. Our logo helps others recognize CivicActions presence in our work, partnerships, and relationships in the community. To state the obvious, the logo represents CivicActions, so it’s important to use it with intention and care. These guidelines will help you use the CivicActions logo in a way that’s consistent with our visual brand. 
 
 ### What logo should I use? 
 
@@ -75,38 +116,5 @@ The spacing around the CivicActions logos should be dictated based on the height
 
 These guidelines are here to help you apply our branding yourself, but if you aren’t sure about something, just ask. Anyone in #brand would be happy to answer questions.
 
-# Download logo assets 
 
-## For the web (RGB color)
-Use RGB files for anything that will be displayed on a screen.
-
-**[Full-sized "CivicActions" logos - RGB (PNG)](https://drive.google.com/open?id=10HV9eOSybMGscmEqF1q8KO57OPc41byB)**
-*Use .png files when the size of the image will stay static.*
-
-**[Shortened "CA" logos - RGB (PNG)](https://drive.google.com/open?id=1dHceK1FoU_-s4bGZzU4s_k8D_f1ydbjz)**
-*Use .png files when the size of the image will stay static.*
-
-**[Vector logos - RGB (SVG)](https://drive.google.com/open?id=196Jz6p7ZRTX-jOHdrwPzS9SVAk5mmSv-)**
-*SVG files are vector-based and intended for web applications.* 
-
-
-## For print (CMYK color)
-CMYK files are used for print applications. If you plan to have your material printed, use a CMYK file.
-
-**[Full-sized "CivicActions" logos - CMYK (PNG)](https://drive.google.com/open?id=14OOIeJJ2cA1oySVFznEuReeWsN8no05z)**
-*Use .png files when the size of the image will stay static.*
-
-**[Shortened "CA" logos - CMYK (PNG)](https://drive.google.com/open?id=1aG4atk0EUH8ucHkrb5iZg-AcX0IcdNpT)**
-*Use .png files when the size of the image will stay static.*
-
-**[Vector logos - CMYK (EPS)](https://drive.google.com/open?id=1YiUousYdD0BSpKP0uvnUacX57p4NOATb)**
-*EPS graphics are vector-based files used in design software like Adobe Illustrator.* 
-
-**[Vector logos - CMYK (SVG)](https://drive.google.com/open?id=1F1YvW1rUtGiUZPHOjryUyjAXZOhBCUBa)**
-*SVG files are vector-based and intended for web applications.* 
-
-## Social media avatars
-Find a range of sizes and logo variations in a 1:1 square ratio, optimized for social media avatars.
-
-**[Social media avatar files](https://drive.google.com/open?id=1ueoLjUGQY9IC8cgk2xVG0x4S6xlgLyFZ)**
 
