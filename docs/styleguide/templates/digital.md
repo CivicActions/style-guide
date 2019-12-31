@@ -4,6 +4,7 @@
 Find CivicActions branded templates here. Remember to make a copy before starting your work!
 
 **Letterhead**
+
 Digital letterhead templates with the CivicActions logo, address, and office numbers. 
 
 +   [Google docs letterhead template](https://drive.google.com/open?id=1-6dKWomT1rhma20dmsi_CTRz3suaBpS5Keg6vQjwIoY)
