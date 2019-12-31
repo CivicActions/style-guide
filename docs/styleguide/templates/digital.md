@@ -9,7 +9,7 @@ Digital letterhead templates with the CivicActions logo, address, and office num
 
 +   [Google docs letterhead template](https://drive.google.com/open?id=1-6dKWomT1rhma20dmsi_CTRz3suaBpS5Keg6vQjwIoY)
 +   [Microsoft Word letterhead template (header and footer)](https://drive.google.com/open?id=1ZwNQdTivmDe615XRw9EEDeeOA7BKTnSn)
-+   [Microsoft Word letterhead template (no footer, address included in header)](https://drive.google.com/open?id=1oYofVGoQWV_5rxA4kFOcvgY3kzBvZ3OB)
++   [Microsoft Word letterhead template (no footer, address included in header)](https://drive.google.com/open?id=1Rx4EpmuiIbF9gp01ch9m-M10jURAv2I8)
 
 **Slide deck template**
 
