@@ -1,11 +1,11 @@
 <style>
-.main.clear-user-agent-styles .swatch__color-area table,
-.main.clear-user-agent-styles .swatch__color-area thead,
-.main.clear-user-agent-styles .swatch__color-area tbody,
-.main.clear-user-agent-styles .swatch__color-area tfoot,
-.main.clear-user-agent-styles .swatch__color-area tr,
-.main.clear-user-agent-styles .swatch__color-area th,
-.main.clear-user-agent-styles .swatch__color-area td {
+#ca-important .clear-user-agent-styles table,
+#ca-important clear-user-agent-styles thead,
+#ca-important clear-user-agent-styles tbody,
+#ca-important .clear-user-agent-styles tfoot,
+#ca-important n.clear-user-agent-styles tr,
+#ca-important .clear-user-agent-styles  th,
+#ca-important .clear-user-agent-styles td {
     width: auto;
     height: auto;
     margin: 0;
@@ -19,7 +19,7 @@
     font-weight: inherit;
     -webkit-border-horizontal-spacing: 0;
     -webkit-border-vertical-spacing: 0;
-    background-color: initial !important;
+    background-color: initial;
 }
 
 /**** SWATCH STYLES (individual) ****/
@@ -89,7 +89,7 @@
   .swatch__name {
     position: absolute;
     left: 20px;
-    top: 10px;
+    top: 0px;
     font-size: var(--swatch-hex-code-font-size, var(--swatch-font-size));
     color: var(--swatch-hex-code-color, var(--swatch-color-alt));
     font-weight: 700;
@@ -97,7 +97,7 @@
 .swatch__hex-code {
     position: absolute;
     left: 20px;
-    top: 30px;
+    top: 25px;
     font-size: var(--swatch-name-font-size, var(--swatch-font-size));
     color: var(--swatch-hex-code-color, var(--swatch-color-alt));
     font-weight: 400;
@@ -126,11 +126,11 @@
   top: 48px;
   min-width: 300px;
 }
-.contrast-table__row td {
-  border-bottom: 1px solid #1b1b1b !important;
+#ca-important .contrast-table__row td {
+  border-bottom: 1px solid #1b1b1b;
 }
-.contrast-table__row--last td {
-  border-bottom: 0px solid !important;
+#ca-important .contrast-table__row--last td {
+  border-bottom: 0px solid;
 }
 .swatch__color-area--inverted .contrast-table__row td {
   border-color: var(--swatch--gray-warm-4);
@@ -174,7 +174,7 @@
   }
 </style>
 
-<article class="main clear-user-agent-styles">
+<article id="ca-important" class="main clear-user-agent-styles">
   <section class="color-topic-1">
     <div class="headers">
       <h1>Colors</h1>
