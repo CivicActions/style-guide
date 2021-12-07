@@ -19,7 +19,7 @@
     font-weight: inherit;
     -webkit-border-horizontal-spacing: 0;
     -webkit-border-vertical-spacing: 0;
-    background-color: auto;
+    background-color: initial !important;
 }
 
 /**** SWATCH STYLES (individual) ****/
@@ -89,7 +89,7 @@
   .swatch__name {
     position: absolute;
     left: 20px;
-    top: 0px;
+    top: 10px;
     font-size: var(--swatch-hex-code-font-size, var(--swatch-font-size));
     color: var(--swatch-hex-code-color, var(--swatch-color-alt));
     font-weight: 700;
@@ -97,7 +97,7 @@
 .swatch__hex-code {
     position: absolute;
     left: 20px;
-    top: 25px;
+    top: 30px;
     font-size: var(--swatch-name-font-size, var(--swatch-font-size));
     color: var(--swatch-hex-code-color, var(--swatch-color-alt));
     font-weight: 400;
