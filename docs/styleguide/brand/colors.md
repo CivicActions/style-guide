@@ -1,10 +1,10 @@
 <style>
 #ca-important .clear-user-agent-styles table,
-#ca-important clear-user-agent-styles thead,
-#ca-important clear-user-agent-styles tbody,
+#ca-important .clear-user-agent-styles thead,
+#ca-important .clear-user-agent-styles tbody,
 #ca-important .clear-user-agent-styles tfoot,
-#ca-important n.clear-user-agent-styles tr,
-#ca-important .clear-user-agent-styles  th,
+#ca-important .clear-user-agent-styles tr,
+#ca-important .clear-user-agent-styles th,
 #ca-important .clear-user-agent-styles td {
     width: auto;
     height: auto;
