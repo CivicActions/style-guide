@@ -10,10 +10,10 @@
     height: auto;
     margin: 0;
     padding: 0;
-    border: none;
-    border-collapse: inherit;
-    border-spacing: 0;
-    border-color: inherit;
+    border: none !important;
+    border-collapse: inherit !important;
+    border-spacing: 0 !important;
+    border-color: inherit !important;
     vertical-align: inherit;
     text-align: left;
     font-weight: inherit;
