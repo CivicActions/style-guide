@@ -151,7 +151,6 @@
     color: #333;
   }
   .headers h2 {
-    color: #999;
     line-height: 1.5;
     padding-bottom: 0.5em;
   }
