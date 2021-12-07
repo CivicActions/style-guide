@@ -8,20 +8,21 @@
 #ca-important.clear-user-agent-styles td {
     width: auto;
     height: auto;
-    margin: 0;
-    padding: 0;
+    margin: 10px;
+    padding: 6px;
     border: none !important;
     border-collapse: inherit !important;
     border-spacing: 0 !important;
     border-color: inherit !important;
     vertical-align: inherit;
     text-align: left;
+    font-color: #1b1b1b;;
     font-weight: inherit;
     -webkit-border-horizontal-spacing: 0;
     -webkit-border-vertical-spacing: 0;
-    background-color: initial;
+    background-color: initial;	
 }
-
+	
 /**** SWATCH STYLES (individual) ****/
   body {
     --swatch-gap: 12px;
@@ -89,7 +90,7 @@
   .swatch__name {
     position: absolute;
     left: 20px;
-    top: 0px;
+    top: 10px;
     font-size: var(--swatch-hex-code-font-size, var(--swatch-font-size));
     color: var(--swatch-hex-code-color, var(--swatch-color-alt));
     font-weight: 700;
@@ -97,7 +98,7 @@
 .swatch__hex-code {
     position: absolute;
     left: 20px;
-    top: 25px;
+    top: 35px;
     font-size: var(--swatch-name-font-size, var(--swatch-font-size));
     color: var(--swatch-hex-code-color, var(--swatch-color-alt));
     font-weight: 400;
@@ -117,8 +118,8 @@
   .swatch__info-area > * {
     margin-bottom: var(--swatch-info-area-spacing, 6px);
   }
-  .swatch__importance {
-    color: gray;
+  .swatch__common-name {
+    color: #757575;
   }
 .contrast-table {
   position: absolute;
@@ -218,7 +219,7 @@
           </table>
         </div>
         <div class="swatch__info-area">
-          <p class="swatch__importance" aria-label="color importance">Primary</p>
+          <p class="swatch__common-name" aria-label="color common name">Primary Red</p>
           <p class="swatch__rgb" aria-label="color rgb"><strong>RGB</strong> (216, 57, 51)</p><p><strong>CMYK</strong> (0, 62, 65, 15)</p>
         </div>
       </li>
@@ -259,7 +260,7 @@
           </table>
         </div>
         <div class="swatch__info-area">
-          <p class="swatch__importance" aria-label="color importance">Secondary</p>
+          <p class="swatch__common-name" aria-label="color common name">Dark Red</p>
           <p class="swatch__rgb" aria-label="color rgb"><strong>RGB</strong> (162, 55, 55)</p><p><strong>CMYK</strong> (0, 42, 42, 36)</p>
         </div>
       </li>
@@ -300,7 +301,7 @@
           </table>
         </div>
         <div class="swatch__info-area">
-          <p class="swatch__importance" aria-label="color importance">Primary</p>
+          <p class="swatch__common-name" aria-label="color common name">Primary Green</p>
           <p class="swatch__rgb" aria-label="color rgb"><strong>RGB</strong> (216, 57, 51)</p><p><strong>CMYK</strong> (0, 62, 65, 15)</p>
         </div>
       </li>
@@ -341,7 +342,7 @@
           </table>
         </div>
         <div class="swatch__info-area">
-          <p class="swatch__importance" aria-label="color importance">Secondary</p>
+          <p class="swatch__common-name" aria-label="color common name">Dark Green</p>
           <p class="swatch__rgb" aria-label="color rgb"><strong>RGB</strong> (162, 55, 55)</p><p><strong>CMYK</strong> (0, 42, 42, 36)</p>
         </div>
       </li>
@@ -382,7 +383,7 @@
           </table>
         </div>
         <div class="swatch__info-area">
-          <p class="swatch__importance" aria-label="color importance">Neutral</p>
+          <p class="swatch__common-name" aria-label="color common name">Off-White</p>
           <p class="swatch__rgb" aria-label="color rgb"><strong>RGB</strong> (245, 245, 240)</p><p><strong>CMYK</strong> (0, 0, 2, 4)</p>
         </div>
       </li>
@@ -423,7 +424,7 @@
           </table>
         </div>
         <div class="swatch__info-area">
-          <p class="swatch__importance" aria-label="color importance">Neutral</p>
+          <p class="swatch__common-name" aria-label="color common name">Medium Gray</p>
           <p class="swatch__rgb" aria-label="color rgb"><strong>RGB</strong> (117, 117, 117)</p><p><strong>CMYK</strong> (0, 0, 0, 54)</p>
         </div>
       </li>
@@ -464,7 +465,7 @@
           </table>
         </div>
         <div class="swatch__info-area">
-          <p class="swatch__importance" aria-label="color importance">Neutral</p>
+          <p class="swatch__common-name" aria-label="color common name">Off-Black</p>
           <p class="swatch__rgb" aria-label="color rgb"><strong>RGB</strong> (27, 27, 27)</p><p><strong>CMYK</strong> (0, 0, 0, 89)</p>
         </div>
       </li>
