@@ -161,6 +161,7 @@
   <section class="color-topic-1">
     <div class="headers">
       <h1>Colors</h1>
+	    <h2>Color palette</h2>
     </div>
     <ul class="swatch-grid" aria-label="color swatches">
 
@@ -277,4 +278,7 @@
       
     </ul>
   </section>
+<section class="color-topic-2">
+	<h2>Color accessibility</h2>
+</section>
 </article>
