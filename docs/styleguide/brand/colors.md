@@ -1,11 +1,11 @@
 <style>
-.clear-user-agent-styles table,
-.clear-user-agent-styles thead,
-.clear-user-agent-styles tbody,
-.clear-user-agent-styles tfoot,
-.clear-user-agent-styles tr,
-.clear-user-agent-styles th,
-.clear-user-agent-styles td {
+.main.clear-user-agent-styles .swatch__color-area table,
+.main.clear-user-agent-styles .swatch__color-area thead,
+.main.clear-user-agent-styles .swatch__color-area tbody,
+.main.clear-user-agent-styles .swatch__color-area tfoot,
+.main.clear-user-agent-styles .swatch__color-area tr,
+.main.clear-user-agent-styles .swatch__color-area th,
+.main.clear-user-agent-styles .swatch__color-area td {
     width: auto;
     height: auto;
     margin: 0;
