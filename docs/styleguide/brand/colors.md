@@ -19,8 +19,10 @@
     font-weight: inherit;
     -webkit-border-horizontal-spacing: 0;
     -webkit-border-vertical-spacing: 0;
+    background-color: auto;
 }
-  /**** SWATCH STYLES (individual) ****/
+
+/**** SWATCH STYLES (individual) ****/
   body {
     --swatch-gap: 12px;
     --swatch-padding: 12px;
@@ -125,10 +127,10 @@
   min-width: 300px;
 }
 .contrast-table__row td {
-  border-bottom: 1px solid #1b1b1b;
+  border-bottom: 1px solid #1b1b1b !important;
 }
 .contrast-table__row--last td {
-  border-bottom: 0px solid;
+  border-bottom: 0px solid !important;
 }
 .swatch__color-area--inverted .contrast-table__row td {
   border-color: var(--swatch--gray-warm-4);
