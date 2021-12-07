@@ -1,60 +1,37 @@
 <style>
  
   /**** SWATCH STYLES (individual) ****/
-  
   body {
     --swatch-gap: 12px;
     --swatch-padding: 12px;
     --swatch-font-size: 12px;
     /* width only if flex-grow disabled for swatch layout*/
-    --swatch-width: 300px;
-    --swatch-color-alt: #fff;
+    --swatch-width: 1000px;
     --swatch-info-area-spacing: 10px;
     --swatch-hex-code-font-size: 18px;
-    --swatch-hex-code-color: #fff;
-    --swatch-grid-alt-width: 100px;
+    --swatch-name-font-size: 14px;
+    --swatch-hex-code-color: #F5F5F0;
     --swatch-color-area-height: 140px;
     --swatch-info-area-height: auto;
+    
+    --swatch--gray-warm-4: #F5F5F0;
   }
   .swatch--red-50 {
     --swatch-background-color: #d83933;
   }
-  .swatch--red-40 {
-    --swatch-alt-background-color: #e9695f;
-  }
-  .swatch--red-60 {
-    --swatch-alt-background-color: #a23737;
-  }
   .swatch--red-60 {
     --swatch-background-color: #a23737;
+     --swatch-hex-code-color: #f5f5f0;
   }
-  .swatch--red-50 {
-    --swatch-alt-background-color: #d83933;
-  }
-  .swatch--red-70 {
-    --swatch-alt-background-color: #6f3331;
-  }
-  .swatch--mint-40v {
+  .swatch--mint-cool-40v {
     --swatch-background-color: #00a398;
   }
-  .swatch--mint-30v {
-    --swatch-alt-background-color: #1dc2ae;
-  }
-  .swatch--mint-50v {
-    --swatch-alt-background-color: #008480;
-  }
-  .swatch--mint-60v {
+  .swatch--mint-cool-60v {
     --swatch-background-color: #0f6460;
-  }
-  .swatch--mint-50v {
-    --swatch-alt-background-color: #008480;
-  }
-  .swatch--mint-70v {
-    --swatch-alt-background-color: #0b4b3f;
   }
  .swatch--gray-warm-4 {
     --swatch-background-color: #F5F5F0;
-	  --swatch-hex-code-color: #111111;
+	  --swatch-hex-code-color: #1b1b1b;
   }
  .swatch--gray-90 {
     --swatch-background-color: #1b1b1b;
@@ -63,8 +40,9 @@
     --swatch-background-color: #757575;
   }
 
+
   /**** SWATCH STYLES (general) ****/
-  
+
   .swatch-grid {
     display: flex;
     flex-wrap: wrap;
@@ -86,38 +64,28 @@
   .swatch:hover {
     box-shadow: 0 8px 20px rgba(128, 128, 128, 0.12);
   }
-  .swatch__hex-code {
+  .swatch__name {
     position: absolute;
     left: 20px;
-    top: 20px;
+    top: 0px;
     font-size: var(--swatch-hex-code-font-size, var(--swatch-font-size));
     color: var(--swatch-hex-code-color, var(--swatch-color-alt));
     font-weight: 700;
+  }
+.swatch__hex-code {
+    position: absolute;
+    left: 20px;
+    top: 25px;
+    font-size: var(--swatch-name-font-size, var(--swatch-font-size));
+    color: var(--swatch-hex-code-color, var(--swatch-color-alt));
+    font-weight: 400;
     text-transform: uppercase;
   }
   .swatch__color-area {
     position: relative;
   }
-  .swatch-grid--alt {
-    position: absolute;
-    right: calc(var(--swatch-grid-alt-width, 100px) * -1); /* to hide off canvas initially */
-    width: var(--swatch-grid-alt-width, 100px);
-    display: flex;
-    flex-direction: column;
-    height: 100%;
-    transition: 0.2s ease; /* handles mouse-out */
-  }
-  .swatch:hover .swatch-grid--alt {
-    right: 0;
-    transition: 0.2s ease;
-  }
-  .swatch--alt {
-    flex-grow: 1;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: var(--swatch-alt-color, var(--swatch-color-alt));
-    background-color: var(--swatch-alt-background-color);
+  .swatch__color-area--inverted {
+    color: var(--swatch--gray-warm-4);
   }
   .swatch__info-area {
     background-color: white;
@@ -130,6 +98,34 @@
   .swatch__importance {
     color: gray;
   }
+.contrast-table {
+  position: absolute;
+  right: calc(var(--swatch-gap, 12px) * 2);
+  top: 48px;
+  min-width: 300px;
+}
+.contrast-table__row td {
+  border-bottom: 1px solid #1b1b1b;
+}
+.contrast-table__row--last td {
+  border-bottom: 0px solid;
+}
+.swatch__color-area--inverted .contrast-table__row td {
+  border-color: var(--swatch--gray-warm-4);
+}
+.u-hide {
+  visibility: hidden;
+}
+
+.text-color-1 {
+  color: #F5F5F0; /*gray-warm-4 off-white*/
+}
+.text-color-2 {
+  color: #1b1b1b; /*gray-90 warm black*/
+}
+.text-color-3 {
+  color: #757575; /*gray-50 medium gray*/
+}
 
   /**** PAGE STYLES ****/
 
@@ -140,7 +136,7 @@
 
   .main {
     margin: 4em auto 0;
-    max-width: 800px;
+    /* max-width: 800px; */
   }
 
   .headers {
@@ -160,124 +156,297 @@
   <section class="color-topic-1">
     <div class="headers">
       <h1>Colors</h1>
-	    <h2>Color palette</h2>
+      <h2>Color palette</h2>
     </div>
     <ul class="swatch-grid" aria-label="color swatches">
 
       <li class="swatch swatch--red-50" aria-label="red-50 swatch">
         <div class="swatch__color-area">
-          <p class="swatch__hex-code" aria-label="primary hex code">#d83933</p>
-          <ul class="swatch-grid--alt">
-            <li class="swatch--alt swatch--red-40" aria-label="red-40">
-              <p class="swatch__hex-code--alt">#e9695f</p>
-            </li>
-            <li class="swatch--alt swatch--red-60" aria-label="red-60">
-              <p class="swatch__hex-code--alt">#a23737</p>
-            </li>
-          </ul>
-        </div>
-        <div class="swatch__info-area">
           <p class="swatch__name" aria-label="color name">Red-50</p>
+          <p class="swatch__hex-code" aria-label="red-50 hex code">#d83933</p>
+          <table class="contrast-table" cellspacing=0>
+            <thead>
+              <tr class="contrast-table__row">
+                <td><span class="u-hide">Label</span></td>
+                <td>16pt</td>
+                <td>24pt</td>
+                <td>Graphics</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="contrast-table__row">
+                <td class="text-color-1">Gray-warm-4</td>
+                <td>Pass</td>
+                <td>Pass</td>
+                <td>Pass</td>
+              </tr>
+              <tr class="contrast-table__row">
+                <td class="text-color-2">Gray-90</td>
+                <td>Not legible</td>
+                <td>Pass</td>
+                <td>Pass</td>
+              </tr>
+              <tr class="contrast-table__row contrast-table__row--last">
+                <td class="text-color-3">Gray-50</td>
+                <td>Not legible</td>
+                <td>Not legible</td>
+                <td>Not legible</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="swatch__info-area">
           <p class="swatch__importance" aria-label="color importance">Primary</p>
-        </div>
-      </li>
-			
-			<li class="swatch swatch--red-60" aria-label="red-60 swatch">
-        <div class="swatch__color-area">
-          <p class="swatch__hex-code" aria-label="primary hex code">#a23737</p>
-          <ul class="swatch-grid--alt">
-            <li class="swatch--alt swatch--red-50" aria-label="red-50">
-              <p class="swatch__hex-code--alt">#d83933</p>
-            </li>
-            <li class="swatch--alt swatch--red-70" aria-label="red-70">
-              <p class="swatch__hex-code--alt">#6f3331</p>
-            </li>
-          </ul>
-        </div>
-        <div class="swatch__info-area">
-          <p class="swatch__name" aria-label="color name">Red-60</p>
-          <p class="swatch__importance" aria-label="color importance">Secondary</p>
-        </div>
-      </li>
-
-      <li class="swatch swatch--mint-40v" aria-label="mint-40 vivid swatch">
-        <div class="swatch__color-area">
-          <p class="swatch__hex-code" aria-label="primary hex code">#00a398</p>
-          <ul class="swatch-grid--alt">
-            <li class="swatch--alt swatch--mint-30v" aria-label="mint-30 vivid swatch">
-              <p class="swatch__hex-code--alt">#1dc2ae</p>
-            </li>
-            <li class="swatch--alt swatch--mint-50v" aria-label="mint-50 vivid swatch">
-              <p class="swatch__hex-code--alt">#008480</p>
-            </li>
-          </ul>
-        </div>
-        <div class="swatch__info-area">
-          <p class="swatch__name" aria-label="color name">Mint Cool-40v</p>
-          <p class="swatch__importance" aria-label="color importance">Primary</p>
-        </div>
-      </li>
-			
-			<li class="swatch swatch--mint-60v" aria-label="mint-60 vivid swatch">
-        <div class="swatch__color-area">
-          <p class="swatch__hex-code" aria-label="primary hex code">#0f6460</p>
-          <ul class="swatch-grid--alt">
-            <li class="swatch--alt swatch--mint-50v" aria-label="mint-50 vivid swatch">
-              <p class="swatch__hex-code--alt">#008480</p>
-            </li>
-            <li class="swatch--alt swatch--mint-70v" aria-label="mint-70 vivid swatch">
-              <p class="swatch__hex-code--alt">#0b4b3f</p>
-            </li>
-          </ul>
-        </div>
-        <div class="swatch__info-area">
-          <p class="swatch__name" aria-label="color name">Mint Cool-60v</p>
-          <p class="swatch__importance" aria-label="color importance">Secondary</p>
-        </div>
-      </li>
-			
-			<li class="swatch swatch--gray-warm-4" aria-label="gray-warm-4 swatch">
-        <div class="swatch__color-area">
-          <p class="swatch__hex-code" aria-label="primary hex code">#F5F5F0</p>
-          <ul class="swatch-grid--alt">
-     
-          </ul>
-        </div>
-        <div class="swatch__info-area">
-          <p class="swatch__name" aria-label="color name">gray-warm-4</p>
-          <p class="swatch__importance" aria-label="color importance">Neutral</p>
-        </div>
-      </li>
-			
-						<li class="swatch swatch--gray-90" aria-label="gray-90 swatch">
-        <div class="swatch__color-area">
-          <p class="swatch__hex-code" aria-label="primary hex code">#1b1b1b</p>
-          <ul class="swatch-grid--alt">
-     
-          </ul>
-        </div>
-        <div class="swatch__info-area">
-          <p class="swatch__name" aria-label="color name">gray-90</p>
-          <p class="swatch__importance" aria-label="color importance">Neutral</p>
-        </div>
-      </li>
-			
-			<li class="swatch swatch--gray-50" aria-label="gray-50 swatch">
-        <div class="swatch__color-area">
-          <p class="swatch__hex-code" aria-label="primary hex code">#757575</p>
-          <ul class="swatch-grid--alt">
-     
-          </ul>
-        </div>
-        <div class="swatch__info-area">
-          <p class="swatch__name" aria-label="color name">gray-50</p>
-          <p class="swatch__importance" aria-label="color importance">Neutral</p>
+          <p class="swatch__rgb" aria-label="color rgb"><strong>RGB</strong> (216, 57, 51)</p><p><strong>CMYK</strong> (0, 62, 65, 15)</p>
         </div>
       </li>
       
+      <li class="swatch swatch--red-60" aria-label="red-60 swatch">
+        <div class="swatch__color-area swatch__color-area--inverted">
+          <p class="swatch__name" aria-label="color name">Red-60</p>
+          <p class="swatch__hex-code" aria-label="red-60 hex code">#a23737</p>
+          <table class="contrast-table" cellspacing=0>
+            <thead>
+              <tr class="contrast-table__row">
+                <td><span class="u-hide">Label</span></td>
+                <td>16pt</td>
+                <td>24pt</td>
+                <td>Graphics</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="contrast-table__row">
+                <td class="text-color-1">Gray-warm-4</td>
+                <td>Pass</td>
+                <td>Pass</td>
+                <td>Pass</td>
+              </tr>
+              <tr class="contrast-table__row">
+                <td class="text-color-2">Gray-90</td>
+                <td>Not legible</td>
+                <td>Not legible</td>
+                <td>Not legible</td>
+              </tr>
+              <tr class="contrast-table__row contrast-table__row--last">
+                <td class="text-color-3">Gray-50</td>
+                <td>Not legible</td>
+                <td>Not legible</td>
+                <td>Not legible</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="swatch__info-area">
+          <p class="swatch__importance" aria-label="color importance">Secondary</p>
+          <p class="swatch__rgb" aria-label="color rgb"><strong>RGB</strong> (162, 55, 55)</p><p><strong>CMYK</strong> (0, 42, 42, 36)</p>
+        </div>
+      </li>
+      
+            <li class="swatch swatch--mint-cool-40v" aria-label="mint-cool-40v swatch">
+        <div class="swatch__color-area">
+          <p class="swatch__name" aria-label="color name">Mint-cool-40v</p>
+          <p class="swatch__hex-code" aria-label="mint-cool-40v hex code">#00a398</p>
+          <table class="contrast-table" cellspacing=0>
+            <thead>
+              <tr class="contrast-table__row">
+                <td><span class="u-hide">Label</span></td>
+                <td>16pt</td>
+                <td>24pt</td>
+                <td>Graphics</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="contrast-table__row">
+                <td class="text-color-1">Gray-warm-4</td>
+                <td>Pass</td>
+                <td>Pass</td>
+                <td>Pass</td>
+              </tr>
+              <tr class="contrast-table__row">
+                <td class="text-color-2">Gray-90</td>
+                <td>Not legible</td>
+                <td>Pass</td>
+                <td>Pass</td>
+              </tr>
+              <tr class="contrast-table__row contrast-table__row--last">
+                <td class="text-color-3">Gray-50</td>
+                <td>Not legible</td>
+                <td>Not legible</td>
+                <td>Not legible</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="swatch__info-area">
+          <p class="swatch__importance" aria-label="color importance">Primary</p>
+          <p class="swatch__rgb" aria-label="color rgb"><strong>RGB</strong> (216, 57, 51)</p><p><strong>CMYK</strong> (0, 62, 65, 15)</p>
+        </div>
+      </li>
+      
+      <li class="swatch swatch--mint-cool-60v" aria-label="mint-cool-60v">
+        <div class="swatch__color-area swatch__color-area--inverted">
+          <p class="swatch__name" aria-label="color name">Mint-cool-60v</p>
+          <p class="swatch__hex-code" aria-label="mint-cool-60v hex code">#0f6460</p>
+          <table class="contrast-table" cellspacing=0>
+            <thead>
+              <tr class="contrast-table__row">
+                <td><span class="u-hide">Label</span></td>
+                <td>16pt</td>
+                <td>24pt</td>
+                <td>Graphics</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="contrast-table__row">
+                <td class="text-color-1">Gray-warm-4</td>
+                <td>Pass</td>
+                <td>Pass</td>
+                <td>Pass</td>
+              </tr>
+              <tr class="contrast-table__row">
+                <td class="text-color-2">Gray-90</td>
+                <td>Not legible</td>
+                <td>Not legible</td>
+                <td>Not legible</td>
+              </tr>
+              <tr class="contrast-table__row contrast-table__row--last">
+                <td class="text-color-3">Gray-50</td>
+                <td>Not legible</td>
+                <td>Not legible</td>
+                <td>Not legible</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="swatch__info-area">
+          <p class="swatch__importance" aria-label="color importance">Secondary</p>
+          <p class="swatch__rgb" aria-label="color rgb"><strong>RGB</strong> (162, 55, 55)</p><p><strong>CMYK</strong> (0, 42, 42, 36)</p>
+        </div>
+      </li>
+      
+      <li class="swatch swatch--gray-warm-4" aria-label="gray-warm-4 swatch">
+        <div class="swatch__color-area">
+          <p class="swatch__name" aria-label="color name">Gray-warm-4</p>
+          <p class="swatch__hex-code" aria-label="gray-warm-4 hex code">#F5F5F0</p>
+          <table class="contrast-table" cellspacing=0>
+            <thead>
+              <tr class="contrast-table__row">
+                <td><span class="u-hide">Label</span></td>
+                <td>16pt</td>
+                <td>24pt</td>
+                <td>Graphics</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="contrast-table__row">
+                <td class="text-color-1">Gray-warm-4</td>
+                <td>Not legible</td>
+                <td>Not legible</td>
+                <td>Not legible</td>
+              </tr>
+              <tr class="contrast-table__row">
+                <td class="text-color-2">Gray-90</td>
+                <td>Pass</td>
+                <td>Pass</td>
+                <td>Pass</td>
+              </tr>
+              <tr class="contrast-table__row contrast-table__row--last">
+                <td class="text-color-3">Gray-50</td>
+                <td>Not legible</td>
+                <td>Pass</td>
+                <td>Pass</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="swatch__info-area">
+          <p class="swatch__importance" aria-label="color importance">Neutral</p>
+          <p class="swatch__rgb" aria-label="color rgb"><strong>RGB</strong> (245, 245, 240)</p><p><strong>CMYK</strong> (0, 0, 2, 4)</p>
+        </div>
+      </li>
+      
+      <li class="swatch swatch--gray-50" aria-label="gray-50">
+        <div class="swatch__color-area swatch__color-area--inverted">
+          <p class="swatch__name" aria-label="color name">Gray-50</p>
+          <p class="swatch__hex-code" aria-label="gray-50 hex code">#757575</p>
+          <table class="contrast-table" cellspacing=0>
+            <thead>
+              <tr class="contrast-table__row">
+                <td><span class="u-hide">Label</span></td>
+                <td>16pt</td>
+                <td>24pt</td>
+                <td>Graphics</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="contrast-table__row">
+                <td class="text-color-1">Gray-warm-4</td>
+                <td>Not legible</td>
+                <td>Pass</td>
+                <td>Pass</td>
+              </tr>
+              <tr class="contrast-table__row">
+                <td class="text-color-2">Gray-90</td>
+                <td>Not legible</td>
+                <td>Pass</td>
+                <td>Pass</td>
+              </tr>
+              <tr class="contrast-table__row contrast-table__row--last">
+                <td class="text-color-3">Gray-50</td>
+                <td>Not legible</td>
+                <td>Not legible</td>
+                <td>Not legible</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="swatch__info-area">
+          <p class="swatch__importance" aria-label="color importance">Neutral</p>
+          <p class="swatch__rgb" aria-label="color rgb"><strong>RGB</strong> (117, 117, 117)</p><p><strong>CMYK</strong> (0, 0, 0, 54)</p>
+        </div>
+      </li>
+      
+      <li class="swatch swatch--gray-90" aria-label="gray-90">
+        <div class="swatch__color-area swatch__color-area--inverted">
+          <p class="swatch__name" aria-label="color name">Gray-90</p>
+          <p class="swatch__hex-code" aria-label="gray-90 hex code">#1b1b1b</p>
+          <table class="contrast-table" cellspacing=0>
+            <thead>
+              <tr class="contrast-table__row">
+                <td><span class="u-hide">Label</span></td>
+                <td>16pt</td>
+                <td>24pt</td>
+                <td>Graphics</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="contrast-table__row">
+                <td class="text-color-1">Gray-warm-4</td>
+                <td>Pass</td>
+                <td>Pass</td>
+                <td>Pass</td>
+              </tr>
+              <tr class="contrast-table__row">
+                <td class="text-color-2">Gray-90</td>
+                <td>Not legible</td>
+                <td>Not legible</td>
+                <td>Not legible</td>
+              </tr>
+              <tr class="contrast-table__row contrast-table__row--last">
+                <td class="text-color-3">Gray-50</td>
+                <td>Not legible</td>
+                <td>Pass</td>
+                <td>Pass</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="swatch__info-area">
+          <p class="swatch__importance" aria-label="color importance">Neutral</p>
+          <p class="swatch__rgb" aria-label="color rgb"><strong>RGB</strong> (27, 27, 27)</p><p><strong>CMYK</strong> (0, 0, 0, 89)</p>
+        </div>
+      </li>
+
     </ul>
   </section>
-<section class="color-topic-2">
-	<h2>Color accessibility</h2>
-</section>
 </article>
