@@ -193,23 +193,23 @@ body {
   <section class="color-topic-1">
     <div class="headers">
       <h1>Colors</h1>
-      <p>Our brand colors are listed below for easy reference, along with the color token from the U.S. Web Design System, the hex color code, and the conversational “aka” name.</p>
-<ul>
-Red 50 - #D83933 (Primary Red)
-Red 60 - #A23737 (Dark Red)
-Mint Cool 40v -  #00A398 (Primary Green)
-Mint Cool 60v -  #0F6460 (Dark Green)
-Gray 50 - #757575 (Medium Gray)
-Gray Warm 4 - #F5F5F0 (Off-White)
-Gray 90 - #1B1B1B (Off-Black)
-Black - #000000
-White - #ffffff
-</ul>
+        <p>Our brand colors are listed below for easy reference, along with the color token from the U.S. Web Design System, the hex color code, and the conversational “aka” name.</p>
+        <ul>
+          <li>Red 50 - #D83933 (Primary Red)</li>
+          <li>Red 60 - #A23737 (Dark Red)</li>
+          <li>Mint Cool 40v -  #00A398 (Primary Green)</li>
+          <li>Mint Cool 60v -  #0F6460 (Dark Green)</li>
+          <li>Gray 50 - #757575 (Medium Gray)</li>
+          <li>Gray Warm 4 - #F5F5F0 (Off-White)</li>
+          <li>Gray 90 - #1B1B1B (Off-Black)</li>
+          <li>Black - #000000</li>
+          <li>White - #ffffff</li>
+        </ul>
 
-      <p><strong>Rules for using colors</strong>
-Use only color combinations demonstrated in the color palette tables below.
-“Pass” indicates that the standards for color contrast and legibility are met. 
-        Don’t use any combinations that are listed in the accessibility sections as “Not legible”.</p>
+         <p><strong>Rules for using colors</strong><br>
+           Use only color combinations demonstrated in the color palette tables below.
+           “Pass” indicates that the standards for color contrast and legibility are met. 
+           Don’t use any combinations that are listed in the accessibility sections as “Not legible”.</p>
 
       <h2>Color palette</h2>
     </div>
