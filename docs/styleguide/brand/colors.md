@@ -154,7 +154,10 @@
 
   body {
     background: #fbfbfb;
-    color: #333;
+    color: #1b1b1b;
+  }
+p {
+    line-height: 1;
   }
 
   .main {
