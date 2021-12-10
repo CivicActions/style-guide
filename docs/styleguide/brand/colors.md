@@ -198,7 +198,7 @@ body {
     <ul class="swatch-grid" aria-label="color swatches">
 
       <li class="swatch swatch--red-50" aria-label="red-50 swatch">
-        <div class="swatch__color-area">
+        <div class="swatch__color-area swatch__color-area--inverted">
           <p class="swatch__name" aria-label="color name">Red-50</p>
           <p class="swatch__hex-code" aria-label="red-50 hex code">#d83933</p>
           <table class="contrast-table" cellspacing=0>
@@ -280,7 +280,7 @@ body {
       </li>
       
             <li class="swatch swatch--mint-cool-40v" aria-label="mint-cool-40v swatch">
-        <div class="swatch__color-area">
+        <div class="swatch__color-area swatch__color-area--inverted">
           <p class="swatch__name" aria-label="color name">Mint-cool-40v</p>
           <p class="swatch__hex-code" aria-label="mint-cool-40v hex code">#00a398</p>
           <table class="contrast-table" cellspacing=0>
