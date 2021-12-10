@@ -103,9 +103,10 @@
   .swatch__color-area {
     position: relative;
     padding: var(--swatch-padding);
+    color: var(--swatch--gray-90) !important;
   }
   .swatch__color-area--inverted {
-    color: var(--swatch--gray-warm-4);
+    color: var(--swatch--gray-warm-4) !important;
   }
   .swatch__info-area {
     background-color: white;
