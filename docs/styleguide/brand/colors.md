@@ -144,7 +144,8 @@ body {
   color: var(--swatch--gray-warm-4);
 }
 #ca-important .swatch__color-area--inverted .contrast-table__row td {
-  border-color: var(--swatch--gray-warm-4);
+  /* important because table borders could only be disabled with !important */
+  border-color: var(--swatch--gray-warm-4) !important;
 }
 #ca-important td.contrast-table__row-label {
   width: 90px;
@@ -203,7 +204,7 @@ body {
           <table class="contrast-table" cellspacing=0>
             <thead>
               <tr class="contrast-table__row">
-                <td><span class="u-hide">Label</span></td>
+                <td class="contrast-table__row-label"><span class="u-hide">Label</span></td>
                 <td>16pt</td>
                 <td>24pt</td>
                 <td>Graphics</td>
@@ -244,7 +245,7 @@ body {
           <table class="contrast-table" cellspacing=0>
             <thead>
               <tr class="contrast-table__row">
-                <td><span class="u-hide">Label</span></td>
+                <td class="contrast-table__row-label"><span class="u-hide">Label</span></td>
                 <td>16pt</td>
                 <td>24pt</td>
                 <td>Graphics</td>
@@ -285,7 +286,7 @@ body {
           <table class="contrast-table" cellspacing=0>
             <thead>
               <tr class="contrast-table__row">
-                <td><span class="u-hide">Label</span></td>
+                <td class="contrast-table__row-label"><span class="u-hide">Label</span></td>
                 <td>16pt</td>
                 <td>24pt</td>
                 <td>Graphics</td>
@@ -326,7 +327,7 @@ body {
           <table class="contrast-table" cellspacing=0>
             <thead>
               <tr class="contrast-table__row">
-                <td><span class="u-hide">Label</span></td>
+                <td class="contrast-table__row-label"><span class="u-hide">Label</span></td>
                 <td>16pt</td>
                 <td>24pt</td>
                 <td>Graphics</td>
@@ -367,7 +368,7 @@ body {
           <table class="contrast-table" cellspacing=0>
             <thead>
               <tr class="contrast-table__row">
-                <td><span class="u-hide">Label</span></td>
+                <td class="contrast-table__row-label"><span class="u-hide">Label</span></td>
                 <td>16pt</td>
                 <td>24pt</td>
                 <td>Graphics</td>
@@ -408,7 +409,7 @@ body {
           <table class="contrast-table" cellspacing=0>
             <thead>
               <tr class="contrast-table__row">
-                <td><span class="u-hide">Label</span></td>
+                <td class="contrast-table__row-label"><span class="u-hide">Label</span></td>
                 <td>16pt</td>
                 <td>24pt</td>
                 <td>Graphics</td>
@@ -449,7 +450,7 @@ body {
           <table class="contrast-table" cellspacing=0>
             <thead>
               <tr class="contrast-table__row">
-                <td><span class="u-hide">Label</span></td>
+                <td class="contrast-table__row-label"><span class="u-hide">Label</span></td>
                 <td>16pt</td>
                 <td>24pt</td>
                 <td>Graphics</td>
