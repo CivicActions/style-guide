@@ -38,6 +38,9 @@
     
     --swatch--gray-warm-4: #F5F5F0;
   }
+		#ca-important p {
+	margin: auto;
+}
   .swatch--red-50 {
     --swatch-background-color: #d83933;
   }
@@ -61,7 +64,6 @@
 .swatch--gray-50 {
     --swatch-background-color: #757575;
   }
-
 
   /**** SWATCH STYLES (general) ****/
 
@@ -91,7 +93,6 @@
     color: var(--swatch-hex-code-color, var(--swatch-color-alt));
     font-weight: 700;
     margin: 0;
-    margin-bottom: 5px;
   }
 .swatch__hex-code {
     font-size: var(--swatch-hex-code-font-size);
