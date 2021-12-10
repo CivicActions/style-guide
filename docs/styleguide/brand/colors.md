@@ -9,14 +9,13 @@
   width: auto;
   height: auto;
   margin: auto;
-  padding: auto;
+  padding: initial;
   border: none !important;
   border-collapse: inherit !important;
   border-spacing: 0 !important;
   border-color: inherit !important;
   vertical-align: inherit;
   text-align: left;
-  font-color: #1b1b1b;
   font-weight: inherit;
   -webkit-border-horizontal-spacing: 0;
   -webkit-border-vertical-spacing: 0;
@@ -35,7 +34,6 @@ body {
   --swatch-hex-code-color: #f5f5f0;
   --swatch-color-area-height: 160px;
   --swatch-info-area-height: auto;
-
   --swatch--gray-warm-4: #f5f5f0;
 }
 
@@ -85,11 +83,11 @@ body {
 .swatch:hover {
   box-shadow: 0 8px 20px rgba(128, 128, 128, 0.12);
 }
-.swatch__name {
+#ca-important .swatch__name {
   font-size: var(--swatch-name-font-size);
   color: var(--swatch-hex-code-color, var(--swatch-color-alt));
   font-weight: bold;
-  margin: 0 !important;
+  margin: 0;
 }
 .swatch__hex-code {
   font-size: var(--swatch-hex-code-font-size);
@@ -98,21 +96,22 @@ body {
   text-transform: uppercase;
   margin: 0;
 }
-.swatch__color-area {
+#ca-important .swatch__color-area {
   position: relative;
   padding: var(--swatch-padding);
-  color: var(--swatch--gray-90) !important;
+  color: var(--swatch--gray-90);
 }
-.swatch__color-area--inverted {
-  color: var(--swatch--gray-warm-4) !important;
+#ca-important .swatch__color-area--inverted {
+  color: var(--swatch--gray-warm-4);
 }
 .swatch__info-area {
   background-color: white;
   padding: var(--swatch-padding) var(--swatch-padding)
     calc(var(--swatch-padding) * 1.25) var(--swatch-padding);
 }
-.swatch__info-area p {
-  margin-bottom: 0 !important;
+#ca-important .swatch__info-area p {
+  margin-top: 0;
+  margin-bottom: 0;
   line-height: 1.5;
   font-size: 14px;
 }
@@ -126,11 +125,11 @@ body {
   min-width: 300px;
 }
 #ca-important .contrast-table__row td {
-  border-bottom: 1px solid #1b1b1b !important;
+  border-bottom: 1px solid #1b1b1b;
   padding: 4px;
 }
 #ca-important .contrast-table__row--last td {
-  border-bottom: 0px solid !important;
+  border-bottom: 0px solid;
 }
 .swatch__color-area thead td {
   color: #1b1b1b;
@@ -139,7 +138,10 @@ body {
   color: var(--swatch--gray-warm-4);
 }
 #ca-important .swatch__color-area--inverted .contrast-table__row td {
-  border-color: var(--swatch--gray-warm-4) !important;
+  border-color: var(--swatch--gray-warm-4);
+}
+#ca-important td.contrast-table__row-label {
+  width: 90px;
 }
 .u-hide {
   visibility: hidden;
@@ -178,6 +180,7 @@ body {
   line-height: 1;
   padding-bottom: 0.5em;
 }
+
 </style>
 
 <article id="ca-important" class="main clear-user-agent-styles">
