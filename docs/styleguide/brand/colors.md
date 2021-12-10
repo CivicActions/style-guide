@@ -116,6 +116,8 @@
   .swatch__info-area p {
     margin-top: 0;
     margin-bottom: var(--swatch-info-area-spacing, 6px);
+    line-height: 10px;
+    font-size: 14px;
   }
   .swatch__common-name {
     color: #757575;
@@ -155,10 +157,6 @@
   body {
     background: #fbfbfb;
     color: #1b1b1b;
-  }
-
-p {
-    line-height: 12px;
   }
 
   .main {
