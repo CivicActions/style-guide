@@ -8,8 +8,8 @@
 #ca-important.clear-user-agent-styles td {
     width: auto;
     height: auto;
-    margin: 10px;
-    padding: 6px;
+    margin: auto;
+    padding: auto;
     border: none !important;
     border-collapse: inherit !important;
     border-spacing: 0 !important;
@@ -20,21 +20,20 @@
     font-weight: inherit;
     -webkit-border-horizontal-spacing: 0;
     -webkit-border-vertical-spacing: 0;
-    background-color: initial;	
+    background-color: initial;
 }
-	
+
 /**** SWATCH STYLES (individual) ****/
   body {
     --swatch-gap: 12px;
     --swatch-padding: 12px;
-    --swatch-font-size: 12px;
+    --swatch-font-size: 14px;
     /* width only if flex-grow disabled for swatch layout*/
     --swatch-width: 1000px;
-    --swatch-info-area-spacing: 10px;
     --swatch-hex-code-font-size: 18px;
     --swatch-name-font-size: 14px;
     --swatch-hex-code-color: #F5F5F0;
-    --swatch-color-area-height: 140px;
+    --swatch-color-area-height: 160px;
     --swatch-info-area-height: auto;
     
     --swatch--gray-warm-4: #F5F5F0;
@@ -44,7 +43,7 @@
   }
   .swatch--red-60 {
     --swatch-background-color: #a23737;
-     --swatch-hex-code-color: #f5f5f0;
+    --swatch-hex-code-color: #f5f5f0;
   }
   .swatch--mint-cool-40v {
     --swatch-background-color: #00a398;
@@ -75,7 +74,7 @@
     /* flex: 1 1 0;  remove this and the swatches will wrap onto the next line */
     position: relative;
     display: grid;
-    grid-template-rows: var(--swatch-color-area-height, 100px) var(--swatch-info-area-height, auto);
+    grid-template-rows: var(--swatch-color-area-height, auto) var(--swatch-info-area-height, auto);
     width: var(--swatch-width, 300px);
     box-shadow: 0px 5px 20px rgba(128, 128, 128, 0.1);
     transition: 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
@@ -88,52 +87,51 @@
     box-shadow: 0 8px 20px rgba(128, 128, 128, 0.12);
   }
   .swatch__name {
-    position: absolute;
-    left: 20px;
-    top: 10px;
     font-size: var(--swatch-hex-code-font-size, var(--swatch-font-size));
     color: var(--swatch-hex-code-color, var(--swatch-color-alt));
     font-weight: 700;
+    margin: 0;
+    margin-bottom: 5px;
   }
 .swatch__hex-code {
-    position: absolute;
-    left: 20px;
-    top: 35px;
     font-size: var(--swatch-name-font-size, var(--swatch-font-size));
     color: var(--swatch-hex-code-color, var(--swatch-color-alt));
     font-weight: 400;
     text-transform: uppercase;
+    margin: 0;
   }
   .swatch__color-area {
     position: relative;
+    padding: var(--swatch-padding);
   }
   .swatch__color-area--inverted {
     color: var(--swatch--gray-warm-4);
   }
   .swatch__info-area {
     background-color: white;
-    padding: var(--swatch-padding, 12px) var(--swatch-padding, 12px) calc(var(--swatch-padding, 12px) - var(--swatch-info-area-spacing, 6px)) var(--swatch-padding, 12px);
-
+    padding: var(--swatch-padding) var(--swatch-padding) calc(var(--swatch-padding) * 1.25) var(--swatch-padding);
   }
-  .swatch__info-area > * {
+  .swatch__info-area p {
+    margin-top: 0;
     margin-bottom: var(--swatch-info-area-spacing, 6px);
   }
   .swatch__common-name {
-    color: #757575;
+    color: #757;
   }
 .contrast-table {
   position: absolute;
-  right: calc(var(--swatch-gap, 12px) * 2);
-  top: 48px;
+  right: var(--swatch-gap);
+  bottom: calc(var(--swatch-gap) * 1.25);
   min-width: 300px;
 }
 #ca-important .contrast-table__row td {
   border-bottom: 1px solid #1b1b1b !important;
+  padding: 4px;
 }
 #ca-important .contrast-table__row--last td {
   border-bottom: 0px solid !important;
 }
-.swatch__color-area--inverted .contrast-table__row td {
+#ca-important .swatch__color-area--inverted .contrast-table__row td {
   border-color: var(--swatch--gray-warm-4) !important;
 }
 .u-hide {
