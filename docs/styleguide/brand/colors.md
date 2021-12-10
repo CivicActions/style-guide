@@ -20,6 +20,7 @@
   -webkit-border-horizontal-spacing: 0;
   -webkit-border-vertical-spacing: 0;
   background-color: initial;
+  line-height: initial;
 }
 
 /**** SWATCH STYLES (individual) ****/
@@ -124,8 +125,13 @@ body {
   bottom: calc(var(--swatch-gap) * 1.25);
   min-width: 300px;
 }
+#ca-important .contrast-table {
+  /* overrides docutils class setting to display: block*/
+  display: table;
+}
 #ca-important .contrast-table__row td {
-  border-bottom: 1px solid #1b1b1b;
+  /* important because table borders could only be disabled with !important */
+  border-bottom: 1px solid #1b1b1b !important;
   padding: 4px;
 }
 #ca-important .contrast-table__row--last td {
@@ -180,7 +186,6 @@ body {
   line-height: 1;
   padding-bottom: 0.5em;
 }
-
 </style>
 
 <article id="ca-important" class="main clear-user-agent-styles">
