@@ -30,8 +30,8 @@
     --swatch-font-size: 14px;
     /* width only if flex-grow disabled for swatch layout*/
     --swatch-width: 1000px;
-    --swatch-hex-code-font-size: 18px;
-    --swatch-name-font-size: 14px;
+    --swatch-hex-code-font-size: 14px;
+    --swatch-name-font-size: 18px;
     --swatch-hex-code-color: #F5F5F0;
     --swatch-color-area-height: 160px;
     --swatch-info-area-height: auto;
@@ -87,14 +87,14 @@
     box-shadow: 0 8px 20px rgba(128, 128, 128, 0.12);
   }
   .swatch__name {
-    font-size: var(--swatch-hex-code-font-size, var(--swatch-font-size));
+    font-size: var(--swatch-name-font-size);
     color: var(--swatch-hex-code-color, var(--swatch-color-alt));
     font-weight: 700;
     margin: 0;
     margin-bottom: 5px;
   }
 .swatch__hex-code {
-    font-size: var(--swatch-name-font-size, var(--swatch-font-size));
+    font-size: var(--swatch-hex-code-font-size);
     color: var(--swatch-hex-code-color, var(--swatch-color-alt));
     font-weight: 400;
     text-transform: uppercase;
@@ -104,6 +104,7 @@
     position: relative;
     padding: var(--swatch-padding);
     color: var(--swatch--gray-90) !important;
+
   }
   .swatch__color-area--inverted {
     color: var(--swatch--gray-warm-4) !important;
