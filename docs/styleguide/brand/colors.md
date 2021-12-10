@@ -118,7 +118,7 @@
     margin-bottom: var(--swatch-info-area-spacing, 6px);
   }
   .swatch__common-name {
-    color: #757;
+    color: #757575;
   }
 .contrast-table {
   position: absolute;
@@ -156,8 +156,9 @@
     background: #fbfbfb;
     color: #1b1b1b;
   }
+
 p {
-    line-height: 1;
+    line-height: 12px;
   }
 
   .main {
@@ -170,10 +171,10 @@ p {
   }
   .headers h1 {
     margin: 10px 0;
-    color: #333;
+    color: #1b1b1b;
   }
   .headers h2 {
-    line-height: 1.5;
+    line-height: 1;
     padding-bottom: 0.5em;
   }
 </style>
