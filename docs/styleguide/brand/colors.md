@@ -1,19 +1,21 @@
 # Colors
 Our brand colors are listed below for easy reference, along with the color token from the U.S. Web Design System, the hex color code, and the conversational “aka” name.  
-- Red 50 - #D83933 (Primary Red)  
-- Red 60 - #A23737 (Dark Red)  
-- Mint Cool 40v -  #00A398 (Primary Green)  
-- Mint Cool 60v -  #0F6460 (Dark Green)  
-- Gray 50 - #757575 (Medium Gray)  
-- Gray Warm 4 - #F5F5F0 (Off-White)  
-- Gray 90 - #1B1B1B (Off-Black)  
-- Black - #000000  
-- White - #ffffff
+
+* Red 50 - #D83933 (Primary Red)  
+* Red 60 - #A23737 (Dark Red)  
+* Mint Cool 40v -  #00A398 (Primary Green)  
+* Mint Cool 60v -  #0F6460 (Dark Green)  
+* Gray 50 - #757575 (Medium Gray)  
+* Gray Warm 4 - #F5F5F0 (Off-White)  
+* Gray 90 - #1B1B1B (Off-Black)  
+* Black - #000000  
+* White - #ffffff
 
 **Rules for using colors**  
-- Use only color combinations demonstrated in the color palette tables below.  
-- “Pass” indicates that the standards for color contrast and legibility are met.  
-- Don’t use any combinations that are listed in the accessibility sections as “Not legible”.
+
+* Use only color combinations demonstrated in the color palette tables below.  
+* “Pass” indicates that the standards for color contrast and legibility are met.  
+* Don’t use any combinations that are listed in the accessibility sections as “Not legible”.
 
 ## Color palette
 
