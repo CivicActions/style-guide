@@ -230,7 +230,7 @@ body {
             <tbody>
               <tr class="contrast-table__row">
                 <td class="text-color-1">Gray-warm-4</td>
-                <td>Pass</td>
+                <td>Not legible</td>
                 <td>Pass</td>
                 <td>Pass</td>
               </tr>
@@ -312,7 +312,7 @@ body {
             <tbody>
               <tr class="contrast-table__row">
                 <td class="text-color-1">Gray-warm-4</td>
-                <td>Pass</td>
+                <td>Not legible</td>
                 <td>Pass</td>
                 <td>Pass</td>
               </tr>
