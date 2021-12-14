@@ -313,12 +313,12 @@ body {
               <tr class="contrast-table__row">
                 <td class="text-color-1">Gray-warm-4</td>
                 <td>Not legible</td>
-                <td>Pass</td>
-                <td>Pass</td>
+                <td>Not legible</td>
+                <td>Not legible</td>
               </tr>
               <tr class="contrast-table__row">
                 <td class="text-color-2">Gray-90</td>
-                <td>Not legible</td>
+                <td>Pass</td>
                 <td>Pass</td>
                 <td>Pass</td>
               </tr>
