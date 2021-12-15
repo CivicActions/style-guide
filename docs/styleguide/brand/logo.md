@@ -23,7 +23,7 @@ You can download a zip file of the logos here:
 * [All svg zip folder](https://drive.google.com/file/d/1MCXXg8JlfzzAZkBi2rrK7a9e1zKNJK6-/view?usp=sharing) (for digital - RGB vector)  
 * [All pdf zip folder](https://drive.google.com/file/d/1RhE0UVCwoYSx45O_f8KgRRYf39BDbFpm/view?usp=sharing) (for print - CMYK)
 
-**Logo usage**
+**Logo usage**  
 The CivicActions logo represents our company and brand. It should only be used in ways consistent with this guide. If you have a question about logo usage, ask someone in [#brand](https://app.slack.com/client/T0297RSQF/CEFGEMP4L).
 
 
