@@ -1,8 +1,7 @@
 # Logo
 The primary CivicActions logo (preferred for most use cases) is the full-length wordmark in red. You can download it here:
 
-[**Full logo (preferred)**](https://drive.google.com/file/d/1dkrHZxAViBOLpC2T5rsrMYvT1HZOAjwA/view?usp=sharing)  
-PNG - 1292x204
+[**Full logo 1292x204 PNG**](https://drive.google.com/file/d/1dkrHZxAViBOLpC2T5rsrMYvT1HZOAjwA/view?usp=sharing)
 
 There is also a shorter, truncated version of the logo using the abbreviation “CA”. This is used only when space limitations make it necessary (e.g., social media profile avatars). 
 
