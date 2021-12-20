@@ -26,4 +26,29 @@ You can download a zip file of the logos here:
 ## Logo usage  
 The CivicActions logo represents our company and brand. It should only be used in ways consistent with this guide. If you have a question about logo usage, ask someone in [#brand](https://app.slack.com/client/T0297RSQF/CEFGEMP4L).
 
+**Spacing requirements**  
+More guidelines will be inserted here.
+
+**Rules for using the logo**  
+* Do not use the primary (red) logo on background colors that do not provide sufficient color contrast. Instead, use the off-black or off-white versions of the logo depending on the background color.  
+* Do not put the logo on complex backgrounds or on images that are similar in color. Use a color overlay to provide sufficient contrast. Use 75% to 85% opacity to ensure contrast. If 85% doesn’t provide enough contrast, consider choosing a simpler background image.  
+* Do not stretch or squish the logo. If you need to re-size the logo, make sure to retain the correct proportions.  
+* Do not change the color of the logo. Besides the primary red, the logo is provided in off-white, off-black, white and black. These are the only acceptable colors to use.
+
+**Examples of incorrect usage**  
+example will be here
+
+**Example of correct usage**  
+example will be here
+
+## Favicon
+The favicon (sometimes called a web icon, tab icon, or URL file) is the file of small icons associated with a website. You see it in an open browser tab.
+
+For CivicActions’ favicon, the SVG file has a media query that enables the logo to automatically switch color if the user is using dark mode. This is the preferred file to use, so the logo is clearly visible to the greatest number of people.
+
+[Favicon SVG](https://drive.google.com/file/d/11_spug0_4djx0wfAY7Ew97CmNd6GIe7g/view?usp=sharing) (preferred)
+
+There are also two ICO files (light and red) that can be used.
+
+All of these are located in this [favicon folder](https://drive.google.com/file/d/11_spug0_4djx0wfAY7Ew97CmNd6GIe7g/view?usp=sharing).
 
