@@ -34,7 +34,7 @@ The spacing around the CivicActions logos should be dictated based on the height
 **Rules for using the logo**  
 * Do not use the primary (red) logo on background colors that do not provide sufficient color contrast. Instead, use the off-black or off-white versions of the logo depending on the background color. 
 
-<img alt="Don't: Civic Actions primary red logo on secondary red background" src="https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/full_logo_on_dark_red.png" title="Red logo on dark red background" width="48%">
+<img alt="Don't: Civic Actions primary red logo on secondary red background" src="https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/full_logo_on_dark_red.png" title="Red logo on dark red background" width="48%" align="center">
 
 
 * Do not put the logo on complex backgrounds or on images that are similar in color. Use a color overlay to provide sufficient contrast. Use 75% to 85% opacity to ensure contrast. If 85% doesn’t provide enough contrast, consider choosing a simpler background image.  
@@ -53,7 +53,7 @@ The spacing around the CivicActions logos should be dictated based on the height
 
 * Do not change the color of the logo. Besides the primary red, the logo is provided in off-white, off-black, white and black. These are the only acceptable colors to use.
 
-<img alt="Don't: Civic Actions logo has been changed to blue" src="https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/full_logo_changed_color.png" title="Logo color changed" width="48%">
+<img alt="Don't: Civic Actions logo has been changed to blue" src="https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/full_logo_changed_color.png" title="Logo color changed" width="48%" align="center">
               
               
 ## Favicon
