@@ -27,9 +27,10 @@ You can download a zip file of the logos here:
 The CivicActions logo represents our company and brand. It should only be used in ways consistent with this guide. If you have a question about logo usage, ask someone in [#brand](https://app.slack.com/client/T0297RSQF/CEFGEMP4L).
 
 **Spacing requirements**  
-The spacing around the CivicActions logos should be dictated based on the height. The padding around the logo should equal half the height of the full logo. This helps set the logo apart from other elements on the page.
+The spacing around the CivicActions logos should be dictated based on the height of the lower case c. The padding around the logo should equal the width of the lower case c of the full logo. This helps set the logo apart from other elements on the page.
 
-- an image demonstrating spacing will be here -
+<img alt="Civic Actions logo spacing requirements" src="https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/logo_spacing.png" title="Logo spacing requirements">
+
 
 **Rules for using the logo**  
 
