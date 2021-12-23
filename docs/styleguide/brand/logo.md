@@ -46,14 +46,14 @@ The spacing around the CivicActions logos should be dictated based on the height
 
 * Do not stretch or squish the logo. If you need to re-size the logo, make sure to retain the correct proportions. 
 
-<img alt="Don't: Civic Actions logo has been squished" src="https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/full_logo_squish.png" title="Squished logo" width="48%">
+<img alt="Don't: Civic Actions logo has been squished" src="https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/full_logo_squish.png" title="Squished logo" width="48%" align="left">
 
 <img alt="Don't: Civic Actions logo has been stretched" src="https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/full_logo_stretch.png" title="Stretched logo" width="48%">
               
 
 * Do not change the color of the logo. Besides the primary red, the logo is provided in off-white, off-black, white and black. These are the only acceptable colors to use.
 
-<img alt="Don't: Civic Actions logo has been changed to blue" src="https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/full_logo_changed_color.png" title="Logo color changed" width="8%">
+<img alt="Don't: Civic Actions logo has been changed to blue" src="https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/full_logo_changed_color.png" title="Logo color changed" width="48%">
               
               
 ## Favicon
