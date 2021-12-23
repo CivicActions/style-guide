@@ -53,7 +53,7 @@ The spacing around the CivicActions logos should be dictated based on the height
 
 * Do not change the color of the logo. Besides the primary red, the logo is provided in off-white, off-black, white and black. These are the only acceptable colors to use.
 
-<img alt="Don't: Civic Actions logo has been changed to blue" src="https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/full_logo_changed_color.png" title="Logo color changed" width="48%" align="center">
+<img alt="Don't: Civic Actions logo has been changed to blue" src="https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/full_logo_changed_color.png" title="Logo color changed" width="48%" text-align="center">
               
               
 ## Favicon
