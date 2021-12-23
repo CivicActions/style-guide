@@ -37,29 +37,33 @@ The spacing around the CivicActions logos should be dictated based on the height
 Do not use the primary (red) logo on background colors that do not provide sufficient color contrast. Instead, use the off-black or off-white versions of the logo depending on the background color. 
 
 <img alt="Don't: Civic Actions primary red logo on secondary red background" src="https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/full_logo_on_dark_red.png" title="Red logo on dark red background" width="48%" align="center">
+@icn-ban Don't
 
 
 
 Do not put the logo on complex backgrounds or on images that are similar in color. Use a color overlay to provide sufficient contrast. Use 75% to 85% opacity to ensure contrast. If 85% doesn’t provide enough contrast, consider choosing a simpler background image.  
 
 <img alt="Don't: Civic Actions red logo has been placed on a complex background" src="https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/full_logo_complex_photo.png" title="Logo on a complex background" width="48%" align="left">
+@icn-ban Don't
 
 <img alt="Do: Civic Actions white logo has been placed on a complex background with an 85% black overlay" src="https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/full_logo_complex_photo_overlay.png" title="Logo on a black overlay" width="48%">
+@icn-check-circle Do
 
 
 
 Do not stretch or squish the logo. If you need to re-size the logo, make sure to retain the correct proportions. 
 
 <img alt="Don't: Civic Actions logo has been squished" src="https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/full_logo_squish.png" title="Squished logo" width="48%" align="left">
+@icn-ban Don't
 
 <img alt="Don't: Civic Actions logo has been stretched" src="https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/full_logo_stretch.png" title="Stretched logo" width="48%">
-
+@icn-ban Don't
 
 
 Do not change the color of the logo. Besides the primary red, the logo is provided in off-white, off-black, white and black. These are the only acceptable colors to use.
 
 <img alt="Don't: Civic Actions logo has been changed to blue" src="https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/full_logo_changed_color.png" title="Logo color changed" width="48%" text-align="center">
- 
+@icn-ban Don't
  
               
 ## Favicon
