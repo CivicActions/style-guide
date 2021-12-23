@@ -32,6 +32,7 @@ The spacing around the CivicActions logos should be dictated based on the height
 - an image demonstrating spacing will be here -
 
 **Rules for using the logo**  
+
 * Do not use the primary (red) logo on background colors that do not provide sufficient color contrast. Instead, use the off-black or off-white versions of the logo depending on the background color. 
 
 <img alt="Don't: Civic Actions primary red logo on secondary red background" src="https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/full_logo_on_dark_red.png" title="Red logo on dark red background" width="48%" align="center">
