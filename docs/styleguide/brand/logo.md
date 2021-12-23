@@ -33,10 +33,27 @@ The spacing around the CivicActions logos should be dictated based on the height
 
 **Rules for using the logo**  
 * Do not use the primary (red) logo on background colors that do not provide sufficient color contrast. Instead, use the off-black or off-white versions of the logo depending on the background color. 
-![Alt](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/full_logo_on_dark_red.png "Don't: Civic Actions primary red logo on secondary red background") 
-* Do not put the logo on complex backgrounds or on images that are similar in color. Use a color overlay to provide sufficient contrast. Use 75% to 85% opacity to ensure contrast. If 85% doesn’t provide enough contrast, consider choosing a simpler background image.  ![Alt](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/full_logo_complex_photo.png "Don't: Civic Actions red logo has been placed on a complex background") ![Alt](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/full_logo_complex_photo_overlay.png "Do: Civic Actions white logo has been placed on a complex background with an 85% black overlay")
-* Do not stretch or squish the logo. If you need to re-size the logo, make sure to retain the correct proportions. ![Alt](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/full_logo_squish.png "Don't: Civic Actions logo has been squished") ![Alt](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/full_logo_stretch.png "Don't: Civic Actions logo has been stretched")
-* Do not change the color of the logo. Besides the primary red, the logo is provided in off-white, off-black, white and black. These are the only acceptable colors to use.![Alt](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/full_logo_changed_color.png "Don't: Civic Actions logo has been changed to blue")
+
+![Don't: Civic Actions primary red logo on secondary red background](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/full_logo_on_dark_red.png "Red logo on dark red background")
+
+
+* Do not put the logo on complex backgrounds or on images that are similar in color. Use a color overlay to provide sufficient contrast. Use 75% to 85% opacity to ensure contrast. If 85% doesn’t provide enough contrast, consider choosing a simpler background image.  
+
+![Don't: Civic Actions red logo has been placed on a complex background](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/full_logo_complex_photo.png "Logo on a complex background") 
+
+![Do: Civic Actions white logo has been placed on a complex background with an 85% black overlay](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/full_logo_complex_photo_overlay.png "Logo on a black overlay")
+
+
+* Do not stretch or squish the logo. If you need to re-size the logo, make sure to retain the correct proportions. 
+
+![Don't: Civic Actions logo has been squished](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/full_logo_squish.png "Squished logo") 
+
+![Don't: Civic Actions logo has been stretched](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/full_logo_stretch.png "Stretched logo")
+
+
+* Do not change the color of the logo. Besides the primary red, the logo is provided in off-white, off-black, white and black. These are the only acceptable colors to use.
+
+![Don't: Civic Actions logo has been changed to blue](https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/full_logo_changed_color.png "Logo color changed")
 
 ## Favicon
 The favicon (sometimes called a web icon, tab icon, or URL file) is the file of small icons associated with a website. You see it in an open browser tab.
