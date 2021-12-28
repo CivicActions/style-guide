@@ -1,3 +1,0 @@
-# Logos
-
-Logo info here.
