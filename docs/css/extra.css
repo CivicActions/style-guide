@@ -23,3 +23,6 @@ h1, h2, h3, h4, h5, h6 {
 .wy-side-nav-search>div.version {
   color: #fff7f6;
 }
+.toctree-l4 {
+  display: none;
+}
