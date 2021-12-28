@@ -1,4 +1,4 @@
-# Introduction
+# Welcome
 
 Welcome to the CivicAction company style guide. This guide helps you create materials that are consistent with the CivicActions brand. 
 
