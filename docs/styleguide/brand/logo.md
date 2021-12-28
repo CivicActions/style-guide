@@ -34,6 +34,7 @@ The spacing around the CivicActions logos should be dictated based on the height
 
 **Rules for using the logo**  
 
+| | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="48%" alt="Don't use the primary red logo on low contrast backgrounds" src="https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/full_logo_on_dark_red.png" title="Red logo on dark red background">  Don't use the primary red logo on low contrast backgrounds | <img width="48%" alt="Don't use the logo on 'vibrating' colored backgrounds" src="https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/full_logo_on_primary_green.png" title="Red logo on primary green background">  Don't use the logo on "vibrating" colored backgrounds | <img width="48%" alt="Don't put the logo on complex backgrounds" src="https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/full_logo_complex_photo.png" title="Logo on a complex background">  Don't put the logo on complex backgrounds |
 
