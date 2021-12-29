@@ -1,8 +1,8 @@
-h1, h2, h3, h4, h5, h6, p, li, blockquote {
-  font-family: 'Ubuntu', sans-serif;
-}
 h1, h2, h3, h4, h5, h6 {
-  font-weight: 900;
+  font-family: 'Work Sans', sans-serif;
+}
+p, li, blockquote {
+  font-family: 'Nunito', sans-serif;
 }
 .wy-nav-side {
   background: #002f43;
@@ -24,5 +24,8 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff7f6;
 }
 .toctree-l4 {
+  display: none;
+}
+.toctree-l2 {
   display: none;
 }
