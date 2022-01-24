@@ -19,14 +19,17 @@ plugins:
 
 nav:
     - Style Guide:
-        - Welcome: README.md
+        - Introduction: README.md
+            - Brand overview: introduction/brand-overview.md
+            - Accessibility: introduction/accessibility.md
         - Brand: 
-            - Logo: styleguide/brand/logo.md
-            - Colors: styleguide/brand/colors.md
-            - Typography: styleguide/brand/typography.md
-            - Photography: styleguide/brand/photography.md
-            - Video: styleguide/brand/video.md
+            - Logo: brand/logo.md
+            - Typography: brand/typography.md
+            - Colors: brand/colors.md
         - Templates:
-            - Digital: styleguide/templates/digital.md
-            - Print: styleguide/templates/print.md
+            - Google Slides decks: templates/google-slides.md
+            - Google Docs styles: templates/google-docs.md
+        - Assets:
+            - Photography: brand/photography.md
+            - Video: brand/video.md
         
