@@ -16,20 +16,5 @@ extra_css:
 
 plugins:
     - search
-
-nav:
-    - Style Guide:
-        - Introduction: README.md
-            - Brand overview: introduction/brand-overview.md
-            - Accessibility: introduction/accessibility.md
-        - Brand: 
-            - Logo: brand/logo.md
-            - Typography: brand/typography.md
-            - Colors: brand/colors.md
-        - Templates:
-            - Google Slides decks: templates/google-slides.md
-            - Google Docs styles: templates/google-docs.md
-        - Assets:
-            - Photography: assets/photography.md
-            - Video: assets/video.md
-        
+    - awesome-pages:
+        filename: navigation.yml        
