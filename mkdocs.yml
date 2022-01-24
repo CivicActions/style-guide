@@ -30,6 +30,6 @@ nav:
             - Google Slides decks: templates/google-slides.md
             - Google Docs styles: templates/google-docs.md
         - Assets:
-            - Photography: brand/photography.md
-            - Video: brand/video.md
+            - Photography: assets/photography.md
+            - Video: assets/video.md
         
