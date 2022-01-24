@@ -21,8 +21,6 @@ nav:
             - Typography: styleguide/brand/typography.md
             - Photography: styleguide/brand/photography.md
             - Video: styleguide/brand/video.md
-        - Design System: 
-            - Components: styleguide/designsystem/components.md
         - Templates:
             - Digital: styleguide/templates/digital.md
             - Print: styleguide/templates/print.md
