@@ -10,6 +10,9 @@ p, li, blockquote {
 .wy-nav-side {
   background: #a23737;
 }
+.wy-nav-content {
+  color: #1b1b1b;
+}
 .wy-nav-content a,
 .wy-nav-content a:visited {
   color: #a23737;
