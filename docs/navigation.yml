@@ -1,6 +1,8 @@
-arrange:
-  - introduction
+nav:
+  - Introduction: README.md
+    - brand-overview.md
+    - accessibility.md
   - brand
   - components
-  - template-files
+  - Templates: template-files
   - assets
