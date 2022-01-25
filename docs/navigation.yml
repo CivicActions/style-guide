@@ -1,7 +1,5 @@
 nav:
   - introduction
-    - brand-overview.md
-    - accessibility.md
   - brand
   - components
   - Templates: template-files
