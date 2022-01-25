@@ -4,6 +4,15 @@ h1, h2, h3, h4, h5, h6 {
 p, li, blockquote {
   font-family: 'Nunito', sans-serif;
 }
+.rst-content a {
+    color: #0f6460;
+}
+.rst-content a:hover {
+    color: #00a398;
+}
+.rst-content a:visited {
+    color: #a23737;
+}
 .rst-versions .rst-current-version {
   background-color: #d83933;
 }

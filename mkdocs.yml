@@ -5,7 +5,7 @@ repo_url: https://github.com/civicactions/style-guide/
 
 theme:
     name: readthedocs
-    include_homepage_in_sidebar: True
+    include_homepage_in_sidebar: False
     navigation_depth: 4
     collapse_navigation: True
     titles_only: False
