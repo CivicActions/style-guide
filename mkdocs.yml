@@ -11,8 +11,7 @@ theme:
     titles_only: False
     sticky_navigation: True
 
-extra_css:
-    - css/extra.css
+extra_css: [css/extra.css]
 
 plugins:
     - search

@@ -4,21 +4,32 @@ h1, h2, h3, h4, h5, h6 {
 p, li, blockquote {
   font-family: 'Nunito', sans-serif;
 }
+.rst-versions .rst-current-version {
+  background-color: #d83933;
+}
 .wy-nav-side {
   background: #a23737;
 }
-.wy-nav-content {
-  color: #a23737;
-}
 .wy-nav-content a,
 .wy-nav-content a:visited {
-  color: #d83933;
+  color: #a23737;
 }
-.wy-menu-vertical a:active {
-  background-color: #d83933;
+.wy-menu-vertical p.caption {
+  color: #ffffff;
+  margin-top: 1.618em;
+}
+.wy-menu-vertical li.current a {
+  background: #ffffff;
+}
+.wy-menu-vertical li.current a:hover {
+  background: #f8e1de;
+}
+.wy-menu-vertical li a:hover {
+  background: #f8e1de;
+  color: #a23737;
 }
 .wy-side-nav-search {
-  background-color: #d83933;
+  background-color: #a23737;
 }
 .wy-side-nav-search>div.version {
   color: #fff7f6;
