@@ -56,7 +56,9 @@ p, li, blockquote {
     display: none;
 }
 .wy-menu-vertical li.current a {
-border-right: none;
+  border-right: none;
+  text-decoration: underline #fff 1px;
+  text-underline-offset: 4px;
 }
 .wy-menu-vertical li.current a:hover {
   background: #d83933;
@@ -65,12 +67,10 @@ border-right: none;
   background: #d83933;
 }
 .wy-menu-vertical li.toctree-l1.current>a {
-    border-bottom: solid 1px #fff;
-    border-top: solid 1px #fff;
+    border: none;
 }
 .wy-menu-vertical li.toctree-l2.current>a, .wy-menu-vertical li.toctree-l3.current>a {
   background: #d83933;
-  text-decoration: underline;
 }
 .wy-menu-vertical a {
   color: #f5f5f0;
