@@ -55,14 +55,22 @@ p, li, blockquote {
     color: #fff;
     display: none;
 }
+.wy-menu-vertical li.current a {
+border-right: none;
+}
 .wy-menu-vertical li.current a:hover {
   background: #d83933;
 }
 .wy-menu-vertical li a:hover {
   background: #d83933;
 }
-.wy-menu-vertical li.toctree-l2.current>a {
+.wy-menu-vertical li.toctree-l1.current>a {
+    border-bottom: solid 1px #fff;
+    border-top: solid 1px #fff;
+}
+.wy-menu-vertical li.toctree-l2.current>a, .wy-menu-vertical li.toctree-l3.current>a {
   background: #d83933;
+  text-decoration: underline;
 }
 .wy-menu-vertical a {
   color: #f5f5f0;
