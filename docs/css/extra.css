@@ -25,8 +25,13 @@ p, li, blockquote {
 .rst-versions .rst-current-version .fa {
   text-align: left !important;
 }
+.rst-versions .rst-other-versions {
+  color: #f7bbb1 !important;
+  background-color: #a23737 !important;
+}
 .rst-versions a {
   text-align: right !important;
+  color: #fff;
 }
 .wy-table-responsive > table > tbody > tr > td {
   white-space: initial;
@@ -38,7 +43,7 @@ p, li, blockquote {
   color: #1b1b1b;
 }
 .wy-menu-vertical p.caption {
-  color: #ffffff;
+  color: #fff;
   margin-top: 1.618em;
 }
 .wy-menu-vertical li.current a {
