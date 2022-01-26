@@ -31,7 +31,8 @@ p, li, blockquote {
 }
 .rst-versions a {
   text-align: right !important;
-  color: #fff;
+  color: #fff !important;
+  text-decoration: underline !important;
 }
 .wy-table-responsive > table > tbody > tr > td {
   white-space: initial;
