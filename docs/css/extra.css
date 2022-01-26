@@ -16,14 +16,20 @@ p, li, blockquote {
 .rst-content a:visited {
   color: #a23737;
 }
-.wy-table-responsive > table > tbody > tr > td {
-  white-space: initial;
-}
 .rst-versions .rst-current-version {
   background-color: #a23737 !important;
   font-family: "Nunito", sans-serif !important;
-  text-align: center !important;
+  color: #fff !important;
   border-top: 1px solid #fff;
+}
+.rst-versions .rst-current-version .fa {
+  text-align: left !important;
+}
+.rst-versions a {
+  text-align: right !important;
+}
+.wy-table-responsive > table > tbody > tr > td {
+  white-space: initial;
 }
 .wy-nav-side {
   background: #a23737;
