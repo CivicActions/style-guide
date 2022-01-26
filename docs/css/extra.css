@@ -20,9 +20,9 @@ p, li, blockquote {
   white-space: initial;
 }
 .rst-versions .rst-current-version {
-  background-color: #a23737;
-  font-family: "Nunito", sans-serif;;
-  text-align: center;
+  background-color: #a23737 !important;
+  font-family: "Nunito", sans-serif !important;
+  text-align: center !important;
   border-top: 1px solid #fff;
 }
 .wy-nav-side {
