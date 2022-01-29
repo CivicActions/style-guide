@@ -1,5 +1,5 @@
 
-[//]: # (This file is a duplicate of index.md Please keep them synched)
+[//]: # (This file is a duplicate of docs/introduction/brand-overview.md Please keep them synched.)
 
 Welcome to the CivicActions company style guide. This guide will help you create materials that are consistent with the CivicActions brand. 
 
