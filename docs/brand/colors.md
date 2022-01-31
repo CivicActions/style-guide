@@ -374,7 +374,7 @@ body {
         </div>
         <div class="swatch__info-area">
           <p class="swatch__common-name" aria-label="color common name">Dark Green</p>
-          <p class="swatch__rgb" aria-label="color rgb"><strong>RGB</strong> (162, 55, 55)</p><p><strong>CMYK</strong> (0, 42, 42, 36)</p>
+          <p class="swatch__rgb" aria-label="color rgb"><strong>RGB</strong> (15, 100, 96)</p><p><strong>CMYK</strong> (85, 0, 4, 61)</p>
         </div>
       </li>
       
