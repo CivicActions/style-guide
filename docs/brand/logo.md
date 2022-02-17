@@ -52,5 +52,5 @@ For CivicActions’ favicon, the SVG file has a media query that enables the log
 
 There are also two ICO files (light and red) that can be used.
 
-All of these are located in this [favicon folder](https://drive.google.com/file/d/11_spug0_4djx0wfAY7Ew97CmNd6GIe7g/view?usp=sharing).
+All of these are located in this [favicon folder](https://drive.google.com/drive/folders/1cSZDSZABduWAOfripsPUuux9ARULosNm).
 
