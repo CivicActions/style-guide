@@ -1,1 +1,1 @@
-... to come
+Guidelines on typography coming soon
