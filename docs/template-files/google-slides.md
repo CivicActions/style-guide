@@ -1,4 +1,6 @@
-Choose a template from the gallery to create CivicActions-branded presentations.
+##Google slides presentation decks
+
+We use Google Slides as our primary presentation tool. Choose a template from the gallery to create CivicActions-branded presentations.
 
 [See the template gallery here.](https://docs.google.com/presentation/u/0/?ftv=1&folder=0AG52ASZZO8wSUk9PVA&tgif=d)
 
