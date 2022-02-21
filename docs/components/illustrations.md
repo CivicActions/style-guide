@@ -1,1 +1,1 @@
-... to come
+Guidelines on illustrations coming soon.
