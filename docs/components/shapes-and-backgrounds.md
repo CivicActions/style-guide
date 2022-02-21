@@ -1,1 +1,1 @@
-... guidelines to come
+Guidelines on shapes and backgrounds coming soon.
