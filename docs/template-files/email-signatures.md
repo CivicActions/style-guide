@@ -31,10 +31,11 @@ OOO Fridays
 
 Add your content to this template:
 
-<img alt="CivicActions short logo" src="https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-Short-Logo-Red-296x204.png" width="120">
+<img alt="CivicActions short logo" src="https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-Short-Logo-Red-296x204.png" width="100px">
+
 Your Name  
-Your Title or Practice Area  
-personal pronouns  
+Your Title or Practice Area. 
+personal pronouns. 
 youraddress@civicactions.com  
 civicactions.com   |   @civicactions  
 anything else you want to include  
