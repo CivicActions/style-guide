@@ -1,6 +1,9 @@
 h1, h2, h3, h4, h5, h6 {
   font-family: "Work Sans", sans-serif;
 }
+blockquote {
+  font-size: 11px;
+}
 p, li, blockquote {
   font-family: "Nunito", sans-serif;
 }
@@ -15,9 +18,6 @@ p, li, blockquote {
 }
 .rst-content a:visited {
   color: #a23737;
-}
-.rst-content blockquote {
-  font-size: 11px;
 }
 .rst-versions .rst-current-version {
   background-color: #a23737 !important;
