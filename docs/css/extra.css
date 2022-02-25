@@ -2,42 +2,42 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Work Sans", sans-serif;
 }
 h1{
-  font-size: 48px;
-  font-weight: 400;
+  font-size: 48px; !important
+  font-weight: 400; !important
 }
 h2{
-  font-size: 36px;
-  font-weight: 400;
+  font-size: 36px; !important
+  font-weight: 400; !important
 }
 h3{
-  font-size: 28px;
-  font-weight: 400;
+  font-size: 28px; !important
+  font-weight: 400; !important
 }
 h4{
-  font-size: 24px;
-  font-weight: 400;
+  font-size: 24px; !important
+  font-weight: 400; !important
 }
 h5{
-  font-size: 18px;
-  font-weight: 600;
-  text-transform: uppercase;
+  font-size: 18px; !important
+  font-weight: 600; !important
+  text-transform: uppercase; !important
 }
 h6{
-  font-size: 14px;
-  font-weight: 600;
-  text-transform: uppercase;
+  font-size: 14px; !important
+  font-weight: 600; !important
+  text-transform: uppercase; !important
 }
 .body-large, .body, .body-small {
   font-family: "Nunito", sans-serif;
 }
 .body-large {
-  font-size: 24px;
+  font-size: 24px; !important
 }
 .body {
-  font-size: 20px;
+  font-size: 20px; !important
 }
 .body-small {
-  font-size: 16px;
+  font-size: 16px; !important
 }
 blockquote {
   font-size: 11px;
