@@ -16,6 +16,9 @@ p, li, blockquote {
 .rst-content a:visited {
   color: #a23737;
 }
+.rst-content blockquote {
+  font-size: 11px;
+}
 .rst-versions .rst-current-version {
   background-color: #a23737 !important;
   font-family: "Nunito", sans-serif !important;
