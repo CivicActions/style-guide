@@ -1,6 +1,6 @@
 You can update your email signature to include the CivicActions logo and some information about yourself.
 
-##Step 1
+## Step 1
 Decide what content you want in your email signature.  
 
 Template:
@@ -27,7 +27,7 @@ rachel.kauff@civicactions.com
 civicactions.com   |   @civicactions  
 OOO Fridays  
 
-##Step 2
+## Step 2
 
 Add your content to this template:
 
@@ -40,7 +40,7 @@ civicactions.com   |   @civicactions
 anything else you want to include  
 
 
-##Step 3
+## Step 3
 Update your signature in Gmail by copying and pasting your information and the logo into the signature settings. Follow [Google's step-by-step instructions](https://support.google.com/mail/answer/8395?co=GENIE.Platform%3DDesktop&hl=en).
 
 This will add the primary red version of the shortened logo to your signature.
