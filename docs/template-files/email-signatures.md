@@ -30,7 +30,7 @@ OOO Fridays
 ##Step 2
 
 Add your content to this template
-<img alt="CivicActions short logo" src="https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-Short-Logo-Red-296x204.png" title="CivicActions short logo">
+<img alt="CivicActions short logo" src="https://raw.githubusercontent.com/CivicActions/style-guide/master/docs/img/CA-Short-Logo-Red-296x204.png" width="120">
 Your Name
 Your Title or Practice Area
 personal pronouns 
