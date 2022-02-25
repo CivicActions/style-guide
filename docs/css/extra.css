@@ -1,6 +1,44 @@
 h1, h2, h3, h4, h5, h6 {
   font-family: "Work Sans", sans-serif;
 }
+h1{
+  font-size: 48px;
+  font-weight: 400;
+}
+h2{
+  font-size: 36px;
+  font-weight: 400;
+}
+h3{
+  font-size: 28px;
+  font-weight: 400;
+}
+h4{
+  font-size: 24px;
+  font-weight: 400;
+}
+h5{
+  font-size: 18px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+h6{
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.body-large, .body, .body-small {
+  font-family: "Nunito", sans-serif;
+}
+.body-large {
+  font-size: 24px;
+}
+.body {
+  font-size: 20px;
+}
+.body-small {
+  font-size: 16px;
+}
 blockquote {
   font-size: 11px;
 }
