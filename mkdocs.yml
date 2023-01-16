@@ -4,16 +4,29 @@ site_url: https://civicactions-style-guide.readthedocs.io/en/latest/
 repo_url: https://github.com/civicactions/style-guide/
 
 theme:
-    name: readthedocs
-    include_homepage_in_sidebar: False
-    navigation_depth: 4
-    collapse_navigation: True
-    titles_only: False
-    sticky_navigation: True
-
-extra_css: [css/extra.css]
-
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.indexes
+    - navigation.footer
+  favicon: img/favicon.ico
+  logo: img/ca-logo-white.svg
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+markdown_extensions:
+  - toc:
+      title: On this page
 plugins:
-    - search
-    - awesome-pages:
-        filename: navigation.yml        
+  - search
+  - awesome-pages:
+      filename: navigation.yml
+extra_css: [css/extra.css]
