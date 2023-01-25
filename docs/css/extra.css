@@ -1,131 +1,25 @@
-.h1, .h2, .h3, .h4 {
-  font-family: "Work Sans", sans-serif;
-  font-weight: 400;
+:root {
+  --md-primary-fg-color: #a23737;
+  --md-accent-fg-color: #3b4eb7;
 }
-.h1{
-  font-size: 48px; 
+[data-md-color-scheme="slate"] {
+  --md-typeset-a-color: #ffa8a8;
+  --md-accent-fg-color: #afbbff;
 }
-.h2{
-  font-size: 36px;
+.md-search__form {
+  background-color: #d83933;
 }
-.h3{
-  font-size: 28px;
-}
-.h4{
-  font-size: 24px;
-}
-.h5{
-  font-family: "Work Sans", sans-serif;
-  font-size: 18px;
-  font-weight: 600;
-  text-transform: uppercase;
-}
-.h6{
-  font-family: "Work Sans", sans-serif;
-  font-size: 14px;
-  font-weight: 600;
-  text-transform: uppercase;
-}
-.body-large, .body, .body-small {
-  font-family: "Nunito", sans-serif;
-}
-.body-large {
-  font-size: 24px;
-}
-.body {
-  font-size: 20px;
-}
-.body-small {
-  font-size: 16px;
-}
-blockquote {
-  font-size: 11px;
-}
-p, li, blockquote {
-  font-family: "Nunito", sans-serif;
-}
-.icon-home:before {
-  content: none;
-}
-.rst-content a {
-  color: #0f6460;
-}
-.rst-content a:hover {
-  color: #00a398;
-}
-.rst-content a:visited {
-  color: #a23737;
-}
-.rst-versions .rst-current-version {
-  background-color: #a23737 !important;
-  font-family: "Nunito", sans-serif !important;
-  color: #fff !important;
-  border-top: 1px solid #fff;
-}
-.rst-versions .rst-current-version .fa {
-  text-align: left !important;
-}
-.rst-versions .rst-other-versions {
-  color: #f7bbb1 !important;
-  background-color: #a23737 !important;
+/* The Read the Docs flyout is formatted with a font-size that is 90% of the
+body's. Material for MkDocs has a body font-size that is 0.5rem. This font-size
+will result in the flyout having a font-size of 0.7rem, consistent with the
+font-size of other elements in the theme.
+*/
+.rst-versions {
+  font-size: 0.777778rem;
 }
 .rst-versions a {
-  text-align: right !important;
-  color: #fff !important;
-  text-decoration: underline !important;
+  color: #39b1ff !important;
 }
-.wy-table-responsive > table > tbody > tr > td {
-  white-space: initial;
+.rst-versions .rst-other-versions {
+  color: #a9a9a9 !important;
 }
-.wy-nav-side {
-  background: #a23737;
-}
-.wy-nav-content {
-  color: #1b1b1b;
-}
-.wy-menu-vertical p.caption {
-  color: #fff;
-  margin-top: 1.618em;
-}
-.wy-menu-vertical li.current a {
-  background: #a23737;
-  color: #fff;  
-}
-.wy-menu-vertical li.current>a span.toctree-expand {
-    color: #fff;
-    display: none;
-}
-.wy-menu-vertical li.current a {
-  border-right: none;
-  text-decoration: underline #fff 1px;
-  text-underline-offset: 4px;
-}
-.wy-menu-vertical li.current a:hover {
-  background: #d83933;
-}
-.wy-menu-vertical li a:hover {
-  background: #d83933;
-}
-.wy-menu-vertical li.toctree-l1.current>a {
-    border: none;
-}
-.wy-menu-vertical li.toctree-l2.current>a, .wy-menu-vertical li.toctree-l3.current>a {
-  background: #d83933;
-}
-.wy-menu-vertical a {
-  color: #f5f5f0;
-}
-.wy-menu-vertical {
-  font-weight: normal;
-}
-.wy-side-nav-search {
-  background-color: #a23737;
-}
-.wy-side-nav-search>div.version {
-  color: #fff7f6;
-}
-.wy-side-scroll {
-  height: 100vh;
-  padding-bottom: 5rem;
-}
-
