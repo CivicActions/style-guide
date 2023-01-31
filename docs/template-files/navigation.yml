@@ -1,9 +1,6 @@
 nav:
-  - google-slides.md
-  - google-docs.md
-  - sales-proposals.md
-  - one-pagers.md
-  - letterhead.md
-  - business-cards.md
   - email-signatures.md
+  - google-docs.md
+  - google-slides.md
+  - one-pagers.md
   - social-media.md
