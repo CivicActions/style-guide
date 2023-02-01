@@ -1,5 +1,5 @@
 nav:
-  - introduction
+  - introduction: introduction
   - brand
   - components
   - Templates: template-files
