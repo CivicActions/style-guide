@@ -1,11 +1,7 @@
 
 [//]: # (This file is a duplicate of docs/introduction/brand-overview.md Please keep them synched.)
 
-Welcome to the CivicActions company style guide. This guide will help you create materials that are consistent with the CivicActions brand. 
-
-Please use this brand guide as a reference when writing or designing materials that represent CivicActions.
-
-## Brand Overview
+# Brand Overview
 
 CivicActions advances the greater good through technology built for humans. We are radically open and uniquely balanced. We take a holistic approach to helping government agencies create modern digital services that build public trust.
 
