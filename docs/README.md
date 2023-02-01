@@ -1,7 +1,7 @@
 
 [//]: # (This file is a duplicate of docs/introduction/brand-overview.md Please keep them synched.)
 
-# Brand Overview
+# Brand overview
 
 CivicActions advances the greater good through technology built for humans. We are radically open and uniquely balanced. We take a holistic approach to helping government agencies create modern digital services that build public trust.
 
