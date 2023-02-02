@@ -1,6 +1,6 @@
 nav:
-  - introduction: introduction
-  - brand
-  - components
+  - Introduction: introduction
+  - Brand
+  - Components
   - Templates: template-files
   - CivicActions Guidebook: 'https://guidebook.civicactions.com/en/latest/'
