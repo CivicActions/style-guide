@@ -1,7 +1,7 @@
 nav:
-  - Overview: introduction
-  - Accessibility: accessibility
-  - Brand
-  - Components
-  - Templates: template-files
+  - overview: introduction
+  - accessibility: accessibility
+  - brand
+  - components
+  - templates: template-files
   - CivicActions Guidebook: 'https://guidebook.civicactions.com/en/latest/'
