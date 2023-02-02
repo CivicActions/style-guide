@@ -1,6 +1,6 @@
 nav:
-  - Overview
-  - Accessibility
+  - Overview: introduction
+  - Accessibility: accessibility
   - Brand
   - Components
   - Templates: template-files
