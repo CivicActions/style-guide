@@ -1,5 +1,6 @@
 nav:
-  - Introduction: Introduction
+  - Overview: introduction
+  - Accessibility
   - Brand
   - Components
   - Templates: template-files
