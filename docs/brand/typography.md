@@ -9,6 +9,3 @@ This file includes the following styling information for headers and body copy:
 - Font sizes
 - Line heights
 - Paragraph spacing
-
-Click [here](https://www.geeksforgeeks.org/){:target="_blank"}  
-to visit GeeksForGeeks website.
